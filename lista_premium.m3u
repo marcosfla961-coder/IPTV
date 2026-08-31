@@ -253,8 +253,8 @@ http://192.168.0.105:9999/stream/telecinepipoca
 http://192.168.0.105:9999/stream/telecinepremium
 #EXTINF:-1, TELECINETOUCH
 http://192.168.0.105:9999/stream/telecinetouch
-#EXTINF:-1, TNT
-http://192.168.0.105:9999/stream/tnt
+#EXTINF:-1, TNT_HD
+http://192.168.0.105:9999/stream/tnt_hd
 #EXTINF:-1, TNTNOVELAS
 http://192.168.0.105:9999/stream/tntnovelas
 #EXTINF:-1, TNTSERIES
@@ -263,8 +263,8 @@ http://192.168.0.105:9999/stream/tntseries
 http://192.168.0.105:9999/stream/universal
 #EXTINF:-1, USA
 http://192.168.0.105:9999/stream/usa
-#EXTINF:-1, WARNER
-http://192.168.0.105:9999/stream/warner
+#EXTINF:-1, WARNER_HD
+http://192.168.0.105:9999/stream/warner_hd
 #EXTINF:-1, CARTOONNETWORK
 http://192.168.0.105:9999/stream/cartoonnetwork
 #EXTINF:-1, CARTOONITO

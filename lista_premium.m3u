@@ -197,8 +197,8 @@ http://192.168.0.105:9999/stream/telecine_touch_hd
 http://192.168.0.105:9999/stream/tlc_hd
 #EXTINF:-1, TNT
 http://192.168.0.105:9999/stream/tnt
-#EXTINF:-1, TNT
-http://192.168.0.105:9999/stream/tnt
+#EXTINF:-1, TNT_HD
+http://192.168.0.105:9999/stream/tnt_hd
 #EXTINF:-1, TNT_SERIES_HD
 http://192.168.0.105:9999/stream/tnt_series_hd
 #EXTINF:-1, TOONCAST_HD

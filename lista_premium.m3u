@@ -1,221 +1,263 @@
 #EXTM3U
-#EXTINF:-1, ADULT_SWIM_HD
-http://192.168.0.105:9999/stream/adult_swim_hd
-#EXTINF:-1, AE_HD
-http://192.168.0.105:9999/stream/ae_hd
-#EXTINF:-1, AGRO+_HD
-http://192.168.0.105:9999/stream/agro+_hd
-#EXTINF:-1, AMC_HD
-http://192.168.0.105:9999/stream/amc_hd
-#EXTINF:-1, ANIMAL_PLANET_HD
-http://192.168.0.105:9999/stream/animal_planet_hd
-#EXTINF:-1, ARTE1_HD
-http://192.168.0.105:9999/stream/arte1_hd
-#EXTINF:-1, AXN_HD
-http://192.168.0.105:9999/stream/axn_hd
-#EXTINF:-1, BAND_HD
-http://192.168.0.105:9999/stream/band_hd
-#EXTINF:-1, BAND_NEWS_HD
-http://192.168.0.105:9999/stream/band_news_hd
-#EXTINF:-1, BIS_HD
-http://192.168.0.105:9999/stream/bis_hd
-#EXTINF:-1, CANAL_BRASIL_HD
-http://192.168.0.105:9999/stream/canal_brasil_hd
-#EXTINF:-1, CANAL_OFF_HD
-http://192.168.0.105:9999/stream/canal_off_hd
-#EXTINF:-1, CARTOON_NETWORK_HD
-http://192.168.0.105:9999/stream/cartoon_network_hd
-#EXTINF:-1, CARTOONITO_HD
-http://192.168.0.105:9999/stream/cartoonito_hd
-#EXTINF:-1, CAZE_TV_HD
-http://192.168.0.105:9999/stream/caze_tv_hd
-#EXTINF:-1, CAZE_TV_2_HD
-http://192.168.0.105:9999/stream/caze_tv_2_hd
-#EXTINF:-1, CAZE_TV_3_HD
-http://192.168.0.105:9999/stream/caze_tv_3_hd
-#EXTINF:-1, CINEMAX_HD
-http://192.168.0.105:9999/stream/cinemax_hd
-#EXTINF:-1, CNN_BRASIL_HD
-http://192.168.0.105:9999/stream/cnn_brasil_hd
-#EXTINF:-1, COMBATE_HD
-http://192.168.0.105:9999/stream/combate_hd
-#EXTINF:-1, CURTA!_HD
-http://192.168.0.105:9999/stream/curta!_hd
-#EXTINF:-1, DISCOVERY_CHANNEL_HD
-http://192.168.0.105:9999/stream/discovery_channel_hd
-#EXTINF:-1, DISCOVERY_HOME_AND_HEALTH_HD
-http://192.168.0.105:9999/stream/discovery_home_and_health_hd
-#EXTINF:-1, DISCOVERY_ID_HD
-http://192.168.0.105:9999/stream/discovery_id_hd
-#EXTINF:-1, DISCOVERY_KIDS_HD
-http://192.168.0.105:9999/stream/discovery_kids_hd
-#EXTINF:-1, DISCOVERY_SCIENCE_HD
-http://192.168.0.105:9999/stream/discovery_science_hd
-#EXTINF:-1, DISCOVERY_THEATER_HD
-http://192.168.0.105:9999/stream/discovery_theater_hd
-#EXTINF:-1, DISCOVERY_TURBO_HD
-http://192.168.0.105:9999/stream/discovery_turbo_hd
-#EXTINF:-1, DISCOVERY_WORLD_HD
-http://192.168.0.105:9999/stream/discovery_world_hd
-#EXTINF:-1, E!_HD
-http://192.168.0.105:9999/stream/e!_hd
-#EXTINF:-1, ESPN_HD
-http://192.168.0.105:9999/stream/espn_hd
-#EXTINF:-1, ESPN_2_HD
-http://192.168.0.105:9999/stream/espn_2_hd
-#EXTINF:-1, ESPN_3_HD
-http://192.168.0.105:9999/stream/espn_3_hd
-#EXTINF:-1, ESPN_4_HD
-http://192.168.0.105:9999/stream/espn_4_hd
-#EXTINF:-1, ESPN_5_HD
-http://192.168.0.105:9999/stream/espn_5_hd
-#EXTINF:-1, ESPN_6_HD
-http://192.168.0.105:9999/stream/espn_6_hd
-#EXTINF:-1, FASHION_TV_HD
-http://192.168.0.105:9999/stream/fashion_tv_hd
-#EXTINF:-1, FISH_TV_HD
-http://192.168.0.105:9999/stream/fish_tv_hd
-#EXTINF:-1, FOOD_NETWORK_HD
-http://192.168.0.105:9999/stream/food_network_hd
-#EXTINF:-1, FUTURA_HD
-http://192.168.0.105:9999/stream/futura_hd
-#EXTINF:-1, GLOBO_HD
-http://192.168.0.105:9999/stream/globo_hd
-#EXTINF:-1, GLOBO_NEWS_HD
-http://192.168.0.105:9999/stream/globo_news_hd
-#EXTINF:-1, GLOBOPLAY_NOVELAS_HD
-http://192.168.0.105:9999/stream/globoplay_novelas_hd
-#EXTINF:-1, GLOOB_HD
-http://192.168.0.105:9999/stream/gloob_hd
-#EXTINF:-1, GLOOBINHO_HD
-http://192.168.0.105:9999/stream/gloobinho_hd
-#EXTINF:-1, GNT_HD
-http://192.168.0.105:9999/stream/gnt_hd
-#EXTINF:-1, HBO_HD
-http://192.168.0.105:9999/stream/hbo_hd
-#EXTINF:-1, HBO_2_HD
-http://192.168.0.105:9999/stream/hbo_2_hd
-#EXTINF:-1, HBO_FAMILY_HD
-http://192.168.0.105:9999/stream/hbo_family_hd
-#EXTINF:-1, HBO_POP_HD
-http://192.168.0.105:9999/stream/hbo_pop_hd
-#EXTINF:-1, HBO_SIGNATURE_HD
-http://192.168.0.105:9999/stream/hbo_signature_hd
-#EXTINF:-1, HBO_XTREME_HD
-http://192.168.0.105:9999/stream/hbo_xtreme_hd
-#EXTINF:-1, HBO+_HD
-http://192.168.0.105:9999/stream/hbo+_hd
-#EXTINF:-1, HGTV_HD
-http://192.168.0.105:9999/stream/hgtv_hd
-#EXTINF:-1, HISTORY_HD
-http://192.168.0.105:9999/stream/history_hd
-#EXTINF:-1, HISTORY_2_HD
-http://192.168.0.105:9999/stream/history_2_hd
-#EXTINF:-1, JP_NEWS_HD
-http://192.168.0.105:9999/stream/jp_news_hd
-#EXTINF:-1, LIFETIME_HD
-http://192.168.0.105:9999/stream/lifetime_hd
-#EXTINF:-1, MEGAPIX_HD
-http://192.168.0.105:9999/stream/megapix_hd
-#EXTINF:-1, MODO_VIAGEM_HD
-http://192.168.0.105:9999/stream/modo_viagem_hd
-#EXTINF:-1, MULTISHOW_HD
-http://192.168.0.105:9999/stream/multishow_hd
-#EXTINF:-1, NSPORTS_HD
-http://192.168.0.105:9999/stream/nsports_hd
-#EXTINF:-1, PARAMOUNT+_HD
-http://192.168.0.105:9999/stream/paramount+_hd
-#EXTINF:-1, PARAMOUNT+_2_HD
-http://192.168.0.105:9999/stream/paramount+_2_hd
-#EXTINF:-1, PARAMOUNT+_3_HD
-http://192.168.0.105:9999/stream/paramount+_3_hd
-#EXTINF:-1, PARAMOUNT+_4_HD
-http://192.168.0.105:9999/stream/paramount+_4_hd
-#EXTINF:-1, PREMIERE_HD
-http://192.168.0.105:9999/stream/premiere_hd
-#EXTINF:-1, PREMIERE_2_HD
-http://192.168.0.105:9999/stream/premiere_2_hd
-#EXTINF:-1, PREMIERE_3_HD
-http://192.168.0.105:9999/stream/premiere_3_hd
-#EXTINF:-1, PREMIERE_4_HD
-http://192.168.0.105:9999/stream/premiere_4_hd
-#EXTINF:-1, PREMIERE_5_HD
-http://192.168.0.105:9999/stream/premiere_5_hd
-#EXTINF:-1, PREMIERE_6_HD
-http://192.168.0.105:9999/stream/premiere_6_hd
-#EXTINF:-1, PREMIERE_7_HD
-http://192.168.0.105:9999/stream/premiere_7_hd
-#EXTINF:-1, PREMIERE_8_HD
-http://192.168.0.105:9999/stream/premiere_8_hd
-#EXTINF:-1, RECORD_HD
-http://192.168.0.105:9999/stream/record_hd
-#EXTINF:-1, RECORD_NEWS_HD
-http://192.168.0.105:9999/stream/record_news_hd
-#EXTINF:-1, REDETV!_HD
-http://192.168.0.105:9999/stream/redetv!_hd
-#EXTINF:-1, SABOR_E_ARTE_HD
-http://192.168.0.105:9999/stream/sabor_e_arte_hd
-#EXTINF:-1, SBT_HD
-http://192.168.0.105:9999/stream/sbt_hd
-#EXTINF:-1, SBT_NEWS_HD
-http://192.168.0.105:9999/stream/sbt_news_hd
-#EXTINF:-1, SONY_CHANNEL_HD
-http://192.168.0.105:9999/stream/sony_channel_hd
-#EXTINF:-1, SONY_MOVIES_HD
-http://192.168.0.105:9999/stream/sony_movies_hd
-#EXTINF:-1, SPACE_HD
-http://192.168.0.105:9999/stream/space_hd
-#EXTINF:-1, SPORTV_HD
-http://192.168.0.105:9999/stream/sportv_hd
-#EXTINF:-1, SPORTV_2_HD
-http://192.168.0.105:9999/stream/sportv_2_hd
-#EXTINF:-1, SPORTV_3_HD
-http://192.168.0.105:9999/stream/sportv_3_hd
-#EXTINF:-1, SPORTYNET_HD
-http://192.168.0.105:9999/stream/sportynet_hd
-#EXTINF:-1, SPORTYNET+_1_HD
-http://192.168.0.105:9999/stream/sportynet+_1_hd
-#EXTINF:-1, SPORTYNET+_2_HD
-http://192.168.0.105:9999/stream/sportynet+_2_hd
-#EXTINF:-1, SPORTYNET+_3_HD
-http://192.168.0.105:9999/stream/sportynet+_3_hd
-#EXTINF:-1, STUDIO_UNIVERSAL_HD
-http://192.168.0.105:9999/stream/studio_universal_hd
-#EXTINF:-1, TELECINE_ACTION_HD
-http://192.168.0.105:9999/stream/telecine_action_hd
-#EXTINF:-1, TELECINE_CULT_HD
-http://192.168.0.105:9999/stream/telecine_cult_hd
-#EXTINF:-1, TELECINE_FUN_HD
-http://192.168.0.105:9999/stream/telecine_fun_hd
-#EXTINF:-1, TELECINE_PIPOCA_HD
-http://192.168.0.105:9999/stream/telecine_pipoca_hd
-#EXTINF:-1, TELECINE_PREMIUM_HD
-http://192.168.0.105:9999/stream/telecine_premium_hd
-#EXTINF:-1, TELECINE_TOUCH_HD
-http://192.168.0.105:9999/stream/telecine_touch_hd
-#EXTINF:-1, TLC_HD
-http://192.168.0.105:9999/stream/tlc_hd
+#EXTINF:-1, BAND_SPORTS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/band_sports
+#EXTINF:-1, CAZETV
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cazetv
+#EXTINF:-1, CAZETV2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cazetv2
+#EXTINF:-1, CAZETV3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cazetv3
+#EXTINF:-1, COMBATE
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/combate
+#EXTINF:-1, DISNEYPLUS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/disneyplus
+#EXTINF:-1, DISNEYPLUS2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/disneyplus2
+#EXTINF:-1, DISNEYPLUS3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/disneyplus3
+#EXTINF:-1, ESPN
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/espn
+#EXTINF:-1, ESPN2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/espn2
+#EXTINF:-1, ESPN3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/espn3
+#EXTINF:-1, ESPN4
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/espn4
+#EXTINF:-1, ESPN5
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/espn5
+#EXTINF:-1, ESPN6
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/espn6
+#EXTINF:-1, GETV
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/getv
+#EXTINF:-1, MAX1
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/max1
+#EXTINF:-1, MAX2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/max2
+#EXTINF:-1, MAX3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/max3
+#EXTINF:-1, PARAMOUNT
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/paramount
+#EXTINF:-1, PARAMOUNT2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/paramount2
+#EXTINF:-1, PREMIERE
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere
+#EXTINF:-1, PREMIERE2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere2
+#EXTINF:-1, PREMIERE3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere3
+#EXTINF:-1, PREMIERE4
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere4
+#EXTINF:-1, PREMIERE5
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere5
+#EXTINF:-1, PREMIERE6
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere6
+#EXTINF:-1, PREMIERE7
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere7
+#EXTINF:-1, PREMIERE8
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/premiere8
+#EXTINF:-1, PRIMEVIDEO1
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/primevideo1
+#EXTINF:-1, PRIMEVIDEO2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/primevideo2
+#EXTINF:-1, SPORTV
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sportv
+#EXTINF:-1, SPORTV2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sportv2
+#EXTINF:-1, SPORTV3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sportv3
+#EXTINF:-1, SPORTV4
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sportv4
+#EXTINF:-1, UFCFIGHTPASS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/ufcfightpass
+#EXTINF:-1, XSPORTS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/xsports
+#EXTINF:-1, 24H_CHAVES
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/24h_chaves
+#EXTINF:-1, 24H_DRAGONBALLZ
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/24h_dragonballz
+#EXTINF:-1, 24H_NARUTO
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/24h_naruto
+#EXTINF:-1, 24H_SIMPSONS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/24h_simpsons
+#EXTINF:-1, 24H_TODOMUNDOODIAOCRIS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/24h_todomundoodiaocris
+#EXTINF:-1, CARTOONNETWORK
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cartoonnetwork
+#EXTINF:-1, CARTOONITO
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cartoonito
+#EXTINF:-1, DISCOVERYKIDS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoverykids
+#EXTINF:-1, GLOOB
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/gloob
+#EXTINF:-1, ANIMALPLANET
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/animalplanet
+#EXTINF:-1, DISCOVERYCHANNEL
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoverychannel
+#EXTINF:-1, DISCOVERYHH
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoveryhh
+#EXTINF:-1, DISCOVERYID
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoveryid
+#EXTINF:-1, DISCOVERYSCIENCE
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoveryscience
+#EXTINF:-1, DISCOVERYTHEATER
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoverytheater
+#EXTINF:-1, DISCOVERYTURBO
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoveryturbo
+#EXTINF:-1, DISCOVERYWORLD
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/discoveryworld
+#EXTINF:-1, FISHTV
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/fishtv
+#EXTINF:-1, HISTORY
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/history
+#EXTINF:-1, HISTORY2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/history2
+#EXTINF:-1, AE
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/ae
+#EXTINF:-1, AMC
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/amc
+#EXTINF:-1, AXN
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/axn
+#EXTINF:-1, ADULTSWIM
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/adultswim
+#EXTINF:-1, CINEMAX
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cinemax
+#EXTINF:-1, COMEDYCENTRAL
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/comedycentral
+#EXTINF:-1, GNT
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/gnt
+#EXTINF:-1, HBO
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hbo
+#EXTINF:-1, HBO2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hbo2
+#EXTINF:-1, HBOFAMILY
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hbofamily
+#EXTINF:-1, HBOMUNDI
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hbomundi
+#EXTINF:-1, HBOPOP
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hbopop
+#EXTINF:-1, HBOPLUS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hboplus
+#EXTINF:-1, HBOXTREME
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hboxtreme
+#EXTINF:-1, HGTV
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/hgtv
+#EXTINF:-1, MEGAPIX
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/megapix
+#EXTINF:-1, OFF
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/off
+#EXTINF:-1, SONY
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sony
+#EXTINF:-1, SPACE
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/space
+#EXTINF:-1, STARCHANNEL
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/starchannel
+#EXTINF:-1, STUDIOUNIVERSAL
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/studiouniversal
+#EXTINF:-1, TCM
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/tcm
+#EXTINF:-1, TLC
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/tlc
 #EXTINF:-1, TNT
-http://192.168.0.105:9999/stream/tnt
-#EXTINF:-1, TNT_HD
-http://192.168.0.105:9999/stream/tnt_hd
-#EXTINF:-1, TNT_SERIES_HD
-http://192.168.0.105:9999/stream/tnt_series_hd
-#EXTINF:-1, TOONCAST_HD
-http://192.168.0.105:9999/stream/tooncast_hd
-#EXTINF:-1, TV_APARECIDA_HD
-http://192.168.0.105:9999/stream/tv_aparecida_hd
-#EXTINF:-1, TV_BRASIL_HD
-http://192.168.0.105:9999/stream/tv_brasil_hd
-#EXTINF:-1, TV_CULTURA_HD
-http://192.168.0.105:9999/stream/tv_cultura_hd
-#EXTINF:-1, UNIVERSAL_HD
-http://192.168.0.105:9999/stream/universal_hd
-#EXTINF:-1, USA_HD
-http://192.168.0.105:9999/stream/usa_hd
-#EXTINF:-1, WARNER_HD
-http://192.168.0.105:9999/stream/warner_hd
-#EXTINF:-1, WOOHOO_HD
-http://192.168.0.105:9999/stream/woohoo_hd
-#EXTINF:-1, XSPORTS_HD
-http://192.168.0.105:9999/stream/xsports_hd
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/tnt
+#EXTINF:-1, TNTNOVELAS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/tntnovelas
+#EXTINF:-1, TNTSERIES
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/tntseries
+#EXTINF:-1, TELECINEACTION
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/telecineaction
+#EXTINF:-1, TELECINECULT
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/telecinecult
+#EXTINF:-1, TELECINEFUN
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/telecinefun
+#EXTINF:-1, TELECINEPIPOCA
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/telecinepipoca
+#EXTINF:-1, TELECINEPREMIUM
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/telecinepremium
+#EXTINF:-1, TELECINETOUCH
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/telecinetouch
+#EXTINF:-1, UNIVERSAL
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/universal
+#EXTINF:-1, WARNERCHANNEL
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/warnerchannel
+#EXTINF:-1, BANDNEWS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/bandnews
+#EXTINF:-1, BANDRJ
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/bandrj
+#EXTINF:-1, BANDSP
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/bandsp
+#EXTINF:-1, CNNBRASIL
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cnnbrasil
+#EXTINF:-1, GLOBONEWS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globonews
+#EXTINF:-1, RECORDMG
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/recordmg
+#EXTINF:-1, RECORDRJ
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/recordrj
+#EXTINF:-1, RECORDSP
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/recordsp
+#EXTINF:-1, SBTRJ
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sbtrj
+#EXTINF:-1, SBTSP
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sbtsp
+#EXTINF:-1, APARECIDA
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/aparecida
+#EXTINF:-1, CANCAONOVA
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cancaonova
+#EXTINF:-1, CULTURA
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/cultura
+#EXTINF:-1, GLOBOAM
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globoam
+#EXTINF:-1, GLOBOCE
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globoce
+#EXTINF:-1, GLOBOES
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globoes
+#EXTINF:-1, GLOBOMG
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globomg
+#EXTINF:-1, GLOBOPB
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globopb
+#EXTINF:-1, GLOBOPE
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globope
+#EXTINF:-1, GLOBORJ
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globorj
+#EXTINF:-1, GLOBORS
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globors
+#EXTINF:-1, GLOBOSP
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/globosp
+#EXTINF:-1, MTV
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/mtv
+#EXTINF:-1, MULTISHOW
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/multishow
+#EXTINF:-1, FOODNETWORK
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/foodnetwork
+#EXTINF:-1, MASTERCHEF
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/masterchef
+#EXTINF:-1, PLAYBOY
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/playboy
+#EXTINF:-1, SEXYHOT
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/sexyhot
+#EXTINF:-1, PT_ABOLA
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_abola
+#EXTINF:-1, PT_BENFICATV
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_benficatv
+#EXTINF:-1, PT_CANAL11
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_canal11
+#EXTINF:-1, PT_ELEVEN1
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_eleven1
+#EXTINF:-1, PT_ELEVEN2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_eleven2
+#EXTINF:-1, PT_ELEVEN3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_eleven3
+#EXTINF:-1, PT_SPORTTV1
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_sporttv1
+#EXTINF:-1, PT_SPORTTV2
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_sporttv2
+#EXTINF:-1, PT_SPORTTV3
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_sporttv3
+#EXTINF:-1, PT_SPORTTV4
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_sporttv4
+#EXTINF:-1, PT_SPORTTV5
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_sporttv5
+#EXTINF:-1, PT_SPORTTV6
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_sporttv6
+#EXTINF:-1, PT_SPORTTV7
+https://berkeley-campaigns-clay-var.trycloudflare.com/stream/pt_sporttv7

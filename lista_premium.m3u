@@ -1,311 +1,263 @@
 #EXTM3U
-#EXTINF:-1, BANDSP
-http://192.168.0.105:9999/stream/bandsp
-#EXTINF:-1, GLOBODF
-http://192.168.0.105:9999/stream/globodf
-#EXTINF:-1, GLOBOESP
-http://192.168.0.105:9999/stream/globoesp
-#EXTINF:-1, GLOBOMG
-http://192.168.0.105:9999/stream/globomg
-#EXTINF:-1, GLOBORS
-http://192.168.0.105:9999/stream/globors
-#EXTINF:-1, GLOBORJ
-http://192.168.0.105:9999/stream/globorj
-#EXTINF:-1, GLOBOSP
-http://192.168.0.105:9999/stream/globosp
-#EXTINF:-1, RECORDDF
-http://192.168.0.105:9999/stream/recorddf
-#EXTINF:-1, RECORDESP
-http://192.168.0.105:9999/stream/recordesp
-#EXTINF:-1, RECORDMG
-http://192.168.0.105:9999/stream/recordmg
-#EXTINF:-1, RECORDRJ
-http://192.168.0.105:9999/stream/recordrj
-#EXTINF:-1, RECORDSP
-http://192.168.0.105:9999/stream/recordsp
-#EXTINF:-1, REDETV
-http://192.168.0.105:9999/stream/redetv
-#EXTINF:-1, SBTRJ
-http://192.168.0.105:9999/stream/sbtrj
-#EXTINF:-1, SBTSP
-http://192.168.0.105:9999/stream/sbtsp
-#EXTINF:-1, CULTURA
-http://192.168.0.105:9999/stream/cultura
-#EXTINF:-1, ADULTSWIM
-http://192.168.0.105:9999/stream/adultswim
-#EXTINF:-1, ANIMALPLANET
-http://192.168.0.105:9999/stream/animalplanet
-#EXTINF:-1, COMEDYCENTRAL
-http://192.168.0.105:9999/stream/comedycentral
-#EXTINF:-1, DISCOVERYCHANNEL
-http://192.168.0.105:9999/stream/discoverychannel
-#EXTINF:-1, DISCOVERYHH
-http://192.168.0.105:9999/stream/discoveryhh
-#EXTINF:-1, DISCOVERYSCIENCE
-http://192.168.0.105:9999/stream/discoveryscience
-#EXTINF:-1, DISCOVERYTHEATER
-http://192.168.0.105:9999/stream/discoverytheater
-#EXTINF:-1, DISCOVERYTURBO
-http://192.168.0.105:9999/stream/discoveryturbo
-#EXTINF:-1, DISCOVERYWORLD
-http://192.168.0.105:9999/stream/discoveryworld
-#EXTINF:-1, FOODNETWORK
-http://192.168.0.105:9999/stream/foodnetwork
-#EXTINF:-1, GNT
-http://192.168.0.105:9999/stream/gnt
-#EXTINF:-1, HGTV
-http://192.168.0.105:9999/stream/hgtv
-#EXTINF:-1, HISTORY
-http://192.168.0.105:9999/stream/history
-#EXTINF:-1, HISTORY2
-http://192.168.0.105:9999/stream/history2
-#EXTINF:-1, DISCOVERYID
-http://192.168.0.105:9999/stream/discoveryid
-#EXTINF:-1, MTV
-http://192.168.0.105:9999/stream/mtv
-#EXTINF:-1, MULTISHOW
-http://192.168.0.105:9999/stream/multishow
-#EXTINF:-1, AMAZONPRIME
-http://192.168.0.105:9999/stream/amazonprime
-#EXTINF:-1, AMAZONPRIME02
-http://192.168.0.105:9999/stream/amazonprime02
-#EXTINF:-1, AMAZONPRIME03
-http://192.168.0.105:9999/stream/amazonprime03
-#EXTINF:-1, AMAZONPRIME04
-http://192.168.0.105:9999/stream/amazonprime04
-#EXTINF:-1, AMAZONPRIME05
-http://192.168.0.105:9999/stream/amazonprime05
-#EXTINF:-1, APPLETV01
-http://192.168.0.105:9999/stream/appletv01
-#EXTINF:-1, APPLETV02
-http://192.168.0.105:9999/stream/appletv02
-#EXTINF:-1, APPLETV03
-http://192.168.0.105:9999/stream/appletv03
-#EXTINF:-1, APPLETV04
-http://192.168.0.105:9999/stream/appletv04
-#EXTINF:-1, APPLETV05
-http://192.168.0.105:9999/stream/appletv05
-#EXTINF:-1, APPLETV06
-http://192.168.0.105:9999/stream/appletv06
 #EXTINF:-1, BAND_SPORTS
-http://192.168.0.105:9999/stream/band_sports
-#EXTINF:-1, CANALGOAT
-http://192.168.0.105:9999/stream/canalgoat
-#EXTINF:-1, OFF
-http://192.168.0.105:9999/stream/off
+https://drove-toronto-creates-keno.trycloudflare.com/stream/band_sports
 #EXTINF:-1, CAZETV
-http://192.168.0.105:9999/stream/cazetv
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cazetv
 #EXTINF:-1, CAZETV2
-http://192.168.0.105:9999/stream/cazetv2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cazetv2
 #EXTINF:-1, CAZETV3
-http://192.168.0.105:9999/stream/cazetv3
-#EXTINF:-1, CAZETV4
-http://192.168.0.105:9999/stream/cazetv4
-#EXTINF:-1, CAZETV5
-http://192.168.0.105:9999/stream/cazetv5
-#EXTINF:-1, CAZETV6
-http://192.168.0.105:9999/stream/cazetv6
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cazetv3
 #EXTINF:-1, COMBATE
-http://192.168.0.105:9999/stream/combate
-#EXTINF:-1, DAZN
-http://192.168.0.105:9999/stream/dazn
-#EXTINF:-1, DISNEYPLUS07
-http://192.168.0.105:9999/stream/disneyplus07
-#EXTINF:-1, DISNEYPLUS08
-http://192.168.0.105:9999/stream/disneyplus08
-#EXTINF:-1, DISNEYPLUS09
-http://192.168.0.105:9999/stream/disneyplus09
+https://drove-toronto-creates-keno.trycloudflare.com/stream/combate
 #EXTINF:-1, DISNEYPLUS
-http://192.168.0.105:9999/stream/disneyplus
-#EXTINF:-1, DISNEYPLUS02
-http://192.168.0.105:9999/stream/disneyplus02
-#EXTINF:-1, DISNEYPLUS03
-http://192.168.0.105:9999/stream/disneyplus03
-#EXTINF:-1, DISNEYPLUS04
-http://192.168.0.105:9999/stream/disneyplus04
-#EXTINF:-1, DISNEYPLUS05
-http://192.168.0.105:9999/stream/disneyplus05
-#EXTINF:-1, DISNEYPLUS06
-http://192.168.0.105:9999/stream/disneyplus06
+https://drove-toronto-creates-keno.trycloudflare.com/stream/disneyplus
+#EXTINF:-1, DISNEYPLUS2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/disneyplus2
+#EXTINF:-1, DISNEYPLUS3
+https://drove-toronto-creates-keno.trycloudflare.com/stream/disneyplus3
 #EXTINF:-1, ESPN
-http://192.168.0.105:9999/stream/espn
+https://drove-toronto-creates-keno.trycloudflare.com/stream/espn
 #EXTINF:-1, ESPN2
-http://192.168.0.105:9999/stream/espn2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/espn2
 #EXTINF:-1, ESPN3
-http://192.168.0.105:9999/stream/espn3
+https://drove-toronto-creates-keno.trycloudflare.com/stream/espn3
 #EXTINF:-1, ESPN4
-http://192.168.0.105:9999/stream/espn4
+https://drove-toronto-creates-keno.trycloudflare.com/stream/espn4
 #EXTINF:-1, ESPN5
-http://192.168.0.105:9999/stream/espn5
+https://drove-toronto-creates-keno.trycloudflare.com/stream/espn5
 #EXTINF:-1, ESPN6
-http://192.168.0.105:9999/stream/espn6
+https://drove-toronto-creates-keno.trycloudflare.com/stream/espn6
 #EXTINF:-1, GETV
-http://192.168.0.105:9999/stream/getv
-#EXTINF:-1, MAX
-http://192.168.0.105:9999/stream/max
-#EXTINF:-1, MAX02
-http://192.168.0.105:9999/stream/max02
-#EXTINF:-1, MAX03
-http://192.168.0.105:9999/stream/max03
-#EXTINF:-1, MAX04
-http://192.168.0.105:9999/stream/max04
-#EXTINF:-1, MAX05
-http://192.168.0.105:9999/stream/max05
-#EXTINF:-1, MAX06
-http://192.168.0.105:9999/stream/max06
-#EXTINF:-1, NSPORTS
-http://192.168.0.105:9999/stream/nsports
-#EXTINF:-1, NOSSOFUTEBOL
-http://192.168.0.105:9999/stream/nossofutebol
+https://drove-toronto-creates-keno.trycloudflare.com/stream/getv
+#EXTINF:-1, MAX1
+https://drove-toronto-creates-keno.trycloudflare.com/stream/max1
+#EXTINF:-1, MAX2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/max2
+#EXTINF:-1, MAX3
+https://drove-toronto-creates-keno.trycloudflare.com/stream/max3
 #EXTINF:-1, PARAMOUNT
-http://192.168.0.105:9999/stream/paramount
-#EXTINF:-1, PARAMOUNT02
-http://192.168.0.105:9999/stream/paramount02
-#EXTINF:-1, PARAMOUNT03
-http://192.168.0.105:9999/stream/paramount03
-#EXTINF:-1, PARAMOUNT04
-http://192.168.0.105:9999/stream/paramount04
-#EXTINF:-1, PARAMOUNT05
-http://192.168.0.105:9999/stream/paramount05
-#EXTINF:-1, PARAMOUNT06
-http://192.168.0.105:9999/stream/paramount06
-#EXTINF:-1, PARAMOUNT07
-http://192.168.0.105:9999/stream/paramount07
-#EXTINF:-1, PREMIERE2
-http://192.168.0.105:9999/stream/premiere2
-#EXTINF:-1, PREMIERE3
-http://192.168.0.105:9999/stream/premiere3
-#EXTINF:-1, PREMIERE4
-http://192.168.0.105:9999/stream/premiere4
-#EXTINF:-1, PREMIERE5
-http://192.168.0.105:9999/stream/premiere5
-#EXTINF:-1, PREMIERE6
-http://192.168.0.105:9999/stream/premiere6
-#EXTINF:-1, PREMIERE7
-http://192.168.0.105:9999/stream/premiere7
-#EXTINF:-1, PREMIERE8
-http://192.168.0.105:9999/stream/premiere8
+https://drove-toronto-creates-keno.trycloudflare.com/stream/paramount
+#EXTINF:-1, PARAMOUNT2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/paramount2
 #EXTINF:-1, PREMIERE
-http://192.168.0.105:9999/stream/premiere
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere
+#EXTINF:-1, PREMIERE2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere2
+#EXTINF:-1, PREMIERE3
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere3
+#EXTINF:-1, PREMIERE4
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere4
+#EXTINF:-1, PREMIERE5
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere5
+#EXTINF:-1, PREMIERE6
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere6
+#EXTINF:-1, PREMIERE7
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere7
+#EXTINF:-1, PREMIERE8
+https://drove-toronto-creates-keno.trycloudflare.com/stream/premiere8
+#EXTINF:-1, PRIMEVIDEO1
+https://drove-toronto-creates-keno.trycloudflare.com/stream/primevideo1
+#EXTINF:-1, PRIMEVIDEO2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/primevideo2
 #EXTINF:-1, SPORTV
-http://192.168.0.105:9999/stream/sportv
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sportv
 #EXTINF:-1, SPORTV2
-http://192.168.0.105:9999/stream/sportv2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sportv2
 #EXTINF:-1, SPORTV3
-http://192.168.0.105:9999/stream/sportv3
-#EXTINF:-1, SPORTYNET
-http://192.168.0.105:9999/stream/sportynet
-#EXTINF:-1, SPORTYNET1
-http://192.168.0.105:9999/stream/sportynet1
-#EXTINF:-1, SPORTYNET2
-http://192.168.0.105:9999/stream/sportynet2
-#EXTINF:-1, SPORTYNET3
-http://192.168.0.105:9999/stream/sportynet3
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sportv3
+#EXTINF:-1, SPORTV4
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sportv4
+#EXTINF:-1, UFCFIGHTPASS
+https://drove-toronto-creates-keno.trycloudflare.com/stream/ufcfightpass
 #EXTINF:-1, XSPORTS
-http://192.168.0.105:9999/stream/xsports
-#EXTINF:-1, AE
-http://192.168.0.105:9999/stream/ae
-#EXTINF:-1, AMC
-http://192.168.0.105:9999/stream/amc
-#EXTINF:-1, AMCSERIES
-http://192.168.0.105:9999/stream/amcseries
-#EXTINF:-1, AXN
-http://192.168.0.105:9999/stream/axn
-#EXTINF:-1, CINEMAX
-http://192.168.0.105:9999/stream/cinemax
-#EXTINF:-1, GLOBOPLAYNOVELAS
-http://192.168.0.105:9999/stream/globoplaynovelas
-#EXTINF:-1, HBO
-http://192.168.0.105:9999/stream/hbo
-#EXTINF:-1, HBO2
-http://192.168.0.105:9999/stream/hbo2
-#EXTINF:-1, HBOFAMILY
-http://192.168.0.105:9999/stream/hbofamily
-#EXTINF:-1, HBOMUNDI
-http://192.168.0.105:9999/stream/hbomundi
-#EXTINF:-1, HBOPLUS
-http://192.168.0.105:9999/stream/hboplus
-#EXTINF:-1, HBOPOP
-http://192.168.0.105:9999/stream/hbopop
-#EXTINF:-1, HBOSIGNATURE
-http://192.168.0.105:9999/stream/hbosignature
-#EXTINF:-1, HBOXTREME
-http://192.168.0.105:9999/stream/hboxtreme
-#EXTINF:-1, MEGAPIX
-http://192.168.0.105:9999/stream/megapix
-#EXTINF:-1, PARAMOUNTNETWORK
-http://192.168.0.105:9999/stream/paramountnetwork
-#EXTINF:-1, SONY
-http://192.168.0.105:9999/stream/sony
-#EXTINF:-1, SPACE
-http://192.168.0.105:9999/stream/space
-#EXTINF:-1, STUDIOUNIVERSAL
-http://192.168.0.105:9999/stream/studiouniversal
-#EXTINF:-1, TELECINEACTION
-http://192.168.0.105:9999/stream/telecineaction
-#EXTINF:-1, TELECINECULT
-http://192.168.0.105:9999/stream/telecinecult
-#EXTINF:-1, TELECINEFUN
-http://192.168.0.105:9999/stream/telecinefun
-#EXTINF:-1, TELECINEPIPOCA
-http://192.168.0.105:9999/stream/telecinepipoca
-#EXTINF:-1, TELECINEPREMIUM
-http://192.168.0.105:9999/stream/telecinepremium
-#EXTINF:-1, TELECINETOUCH
-http://192.168.0.105:9999/stream/telecinetouch
-#EXTINF:-1, TNT
-http://192.168.0.105:9999/stream/tnt
-#EXTINF:-1, TNTNOVELAS
-http://192.168.0.105:9999/stream/tntnovelas
-#EXTINF:-1, TNTSERIES
-http://192.168.0.105:9999/stream/tntseries
-#EXTINF:-1, UNIVERSAL
-http://192.168.0.105:9999/stream/universal
-#EXTINF:-1, USA
-http://192.168.0.105:9999/stream/usa
-#EXTINF:-1, WARNER
-http://192.168.0.105:9999/stream/warner
+https://drove-toronto-creates-keno.trycloudflare.com/stream/xsports
+#EXTINF:-1, 24H_CHAVES
+https://drove-toronto-creates-keno.trycloudflare.com/stream/24h_chaves
+#EXTINF:-1, 24H_DRAGONBALLZ
+https://drove-toronto-creates-keno.trycloudflare.com/stream/24h_dragonballz
+#EXTINF:-1, 24H_NARUTO
+https://drove-toronto-creates-keno.trycloudflare.com/stream/24h_naruto
+#EXTINF:-1, 24H_SIMPSONS
+https://drove-toronto-creates-keno.trycloudflare.com/stream/24h_simpsons
+#EXTINF:-1, 24H_TODOMUNDOODIAOCRIS
+https://drove-toronto-creates-keno.trycloudflare.com/stream/24h_todomundoodiaocris
 #EXTINF:-1, CARTOONNETWORK
-http://192.168.0.105:9999/stream/cartoonnetwork
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cartoonnetwork
 #EXTINF:-1, CARTOONITO
-http://192.168.0.105:9999/stream/cartoonito
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cartoonito
 #EXTINF:-1, DISCOVERYKIDS
-http://192.168.0.105:9999/stream/discoverykids
-#EXTINF:-1, DREAMWORKS
-http://192.168.0.105:9999/stream/dreamworks
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoverykids
 #EXTINF:-1, GLOOB
-http://192.168.0.105:9999/stream/gloob
-#EXTINF:-1, GLOOBINHO
-http://192.168.0.105:9999/stream/gloobinho
-#EXTINF:-1, NICKJR
-http://192.168.0.105:9999/stream/nickjr
-#EXTINF:-1, NICKELODEON
-http://192.168.0.105:9999/stream/nickelodeon
-#EXTINF:-1, TOONCAST
-http://192.168.0.105:9999/stream/tooncast
-#EXTINF:-1, TVRATIMBUM
-http://192.168.0.105:9999/stream/tvratimbum
+https://drove-toronto-creates-keno.trycloudflare.com/stream/gloob
+#EXTINF:-1, ANIMALPLANET
+https://drove-toronto-creates-keno.trycloudflare.com/stream/animalplanet
+#EXTINF:-1, DISCOVERYCHANNEL
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoverychannel
+#EXTINF:-1, DISCOVERYHH
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoveryhh
+#EXTINF:-1, DISCOVERYID
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoveryid
+#EXTINF:-1, DISCOVERYSCIENCE
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoveryscience
+#EXTINF:-1, DISCOVERYTHEATER
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoverytheater
+#EXTINF:-1, DISCOVERYTURBO
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoveryturbo
+#EXTINF:-1, DISCOVERYWORLD
+https://drove-toronto-creates-keno.trycloudflare.com/stream/discoveryworld
+#EXTINF:-1, FISHTV
+https://drove-toronto-creates-keno.trycloudflare.com/stream/fishtv
+#EXTINF:-1, HISTORY
+https://drove-toronto-creates-keno.trycloudflare.com/stream/history
+#EXTINF:-1, HISTORY2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/history2
+#EXTINF:-1, AE
+https://drove-toronto-creates-keno.trycloudflare.com/stream/ae
+#EXTINF:-1, AMC
+https://drove-toronto-creates-keno.trycloudflare.com/stream/amc
+#EXTINF:-1, AXN
+https://drove-toronto-creates-keno.trycloudflare.com/stream/axn
+#EXTINF:-1, ADULTSWIM
+https://drove-toronto-creates-keno.trycloudflare.com/stream/adultswim
+#EXTINF:-1, CINEMAX
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cinemax
+#EXTINF:-1, COMEDYCENTRAL
+https://drove-toronto-creates-keno.trycloudflare.com/stream/comedycentral
+#EXTINF:-1, GNT
+https://drove-toronto-creates-keno.trycloudflare.com/stream/gnt
+#EXTINF:-1, HBO
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hbo
+#EXTINF:-1, HBO2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hbo2
+#EXTINF:-1, HBOFAMILY
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hbofamily
+#EXTINF:-1, HBOMUNDI
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hbomundi
+#EXTINF:-1, HBOPOP
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hbopop
+#EXTINF:-1, HBOPLUS
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hboplus
+#EXTINF:-1, HBOXTREME
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hboxtreme
+#EXTINF:-1, HGTV
+https://drove-toronto-creates-keno.trycloudflare.com/stream/hgtv
+#EXTINF:-1, MEGAPIX
+https://drove-toronto-creates-keno.trycloudflare.com/stream/megapix
+#EXTINF:-1, OFF
+https://drove-toronto-creates-keno.trycloudflare.com/stream/off
+#EXTINF:-1, SONY
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sony
+#EXTINF:-1, SPACE
+https://drove-toronto-creates-keno.trycloudflare.com/stream/space
+#EXTINF:-1, STARCHANNEL
+https://drove-toronto-creates-keno.trycloudflare.com/stream/starchannel
+#EXTINF:-1, STUDIOUNIVERSAL
+https://drove-toronto-creates-keno.trycloudflare.com/stream/studiouniversal
+#EXTINF:-1, TCM
+https://drove-toronto-creates-keno.trycloudflare.com/stream/tcm
+#EXTINF:-1, TLC
+https://drove-toronto-creates-keno.trycloudflare.com/stream/tlc
+#EXTINF:-1, TNT
+https://drove-toronto-creates-keno.trycloudflare.com/stream/tnt
+#EXTINF:-1, TNTNOVELAS
+https://drove-toronto-creates-keno.trycloudflare.com/stream/tntnovelas
+#EXTINF:-1, TNTSERIES
+https://drove-toronto-creates-keno.trycloudflare.com/stream/tntseries
+#EXTINF:-1, TELECINEACTION
+https://drove-toronto-creates-keno.trycloudflare.com/stream/telecineaction
+#EXTINF:-1, TELECINECULT
+https://drove-toronto-creates-keno.trycloudflare.com/stream/telecinecult
+#EXTINF:-1, TELECINEFUN
+https://drove-toronto-creates-keno.trycloudflare.com/stream/telecinefun
+#EXTINF:-1, TELECINEPIPOCA
+https://drove-toronto-creates-keno.trycloudflare.com/stream/telecinepipoca
+#EXTINF:-1, TELECINEPREMIUM
+https://drove-toronto-creates-keno.trycloudflare.com/stream/telecinepremium
+#EXTINF:-1, TELECINETOUCH
+https://drove-toronto-creates-keno.trycloudflare.com/stream/telecinetouch
+#EXTINF:-1, UNIVERSAL
+https://drove-toronto-creates-keno.trycloudflare.com/stream/universal
+#EXTINF:-1, WARNERCHANNEL
+https://drove-toronto-creates-keno.trycloudflare.com/stream/warnerchannel
 #EXTINF:-1, BANDNEWS
-http://192.168.0.105:9999/stream/bandnews
+https://drove-toronto-creates-keno.trycloudflare.com/stream/bandnews
+#EXTINF:-1, BANDRJ
+https://drove-toronto-creates-keno.trycloudflare.com/stream/bandrj
+#EXTINF:-1, BANDSP
+https://drove-toronto-creates-keno.trycloudflare.com/stream/bandsp
 #EXTINF:-1, CNNBRASIL
-http://192.168.0.105:9999/stream/cnnbrasil
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cnnbrasil
 #EXTINF:-1, GLOBONEWS
-http://192.168.0.105:9999/stream/globonews
-#EXTINF:-1, JOVEMPANNEWS
-http://192.168.0.105:9999/stream/jovempannews
-#EXTINF:-1, RECORDNEWS
-http://192.168.0.105:9999/stream/recordnews
-#EXTINF:-1, CANCAONOVA
-http://192.168.0.105:9999/stream/cancaonova
-#EXTINF:-1, NOVOTEMPO
-http://192.168.0.105:9999/stream/novotempo
-#EXTINF:-1, PAIERTERNO
-http://192.168.0.105:9999/stream/paierterno
-#EXTINF:-1, REDEGOSPEL
-http://192.168.0.105:9999/stream/redegospel
-#EXTINF:-1, REDEVIDA
-http://192.168.0.105:9999/stream/redevida
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globonews
+#EXTINF:-1, RECORDMG
+https://drove-toronto-creates-keno.trycloudflare.com/stream/recordmg
+#EXTINF:-1, RECORDRJ
+https://drove-toronto-creates-keno.trycloudflare.com/stream/recordrj
+#EXTINF:-1, RECORDSP
+https://drove-toronto-creates-keno.trycloudflare.com/stream/recordsp
+#EXTINF:-1, SBTRJ
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sbtrj
+#EXTINF:-1, SBTSP
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sbtsp
 #EXTINF:-1, APARECIDA
-http://192.168.0.105:9999/stream/aparecida
-#EXTINF:-1, 24H-TODO-MUNDO-ODEIA-O-CHRIS
-http://192.168.0.105:9999/stream/24h-todo-mundo-odeia-o-chris
+https://drove-toronto-creates-keno.trycloudflare.com/stream/aparecida
+#EXTINF:-1, CANCAONOVA
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cancaonova
+#EXTINF:-1, CULTURA
+https://drove-toronto-creates-keno.trycloudflare.com/stream/cultura
+#EXTINF:-1, GLOBOAM
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globoam
+#EXTINF:-1, GLOBOCE
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globoce
+#EXTINF:-1, GLOBOES
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globoes
+#EXTINF:-1, GLOBOMG
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globomg
+#EXTINF:-1, GLOBOPB
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globopb
+#EXTINF:-1, GLOBOPE
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globope
+#EXTINF:-1, GLOBORJ
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globorj
+#EXTINF:-1, GLOBORS
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globors
+#EXTINF:-1, GLOBOSP
+https://drove-toronto-creates-keno.trycloudflare.com/stream/globosp
+#EXTINF:-1, MTV
+https://drove-toronto-creates-keno.trycloudflare.com/stream/mtv
+#EXTINF:-1, MULTISHOW
+https://drove-toronto-creates-keno.trycloudflare.com/stream/multishow
+#EXTINF:-1, FOODNETWORK
+https://drove-toronto-creates-keno.trycloudflare.com/stream/foodnetwork
+#EXTINF:-1, MASTERCHEF
+https://drove-toronto-creates-keno.trycloudflare.com/stream/masterchef
+#EXTINF:-1, PLAYBOY
+https://drove-toronto-creates-keno.trycloudflare.com/stream/playboy
+#EXTINF:-1, SEXYHOT
+https://drove-toronto-creates-keno.trycloudflare.com/stream/sexyhot
+#EXTINF:-1, PT_ABOLA
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_abola
+#EXTINF:-1, PT_BENFICATV
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_benficatv
+#EXTINF:-1, PT_CANAL11
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_canal11
+#EXTINF:-1, PT_ELEVEN1
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_eleven1
+#EXTINF:-1, PT_ELEVEN2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_eleven2
+#EXTINF:-1, PT_ELEVEN3
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_eleven3
+#EXTINF:-1, PT_SPORTTV1
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_sporttv1
+#EXTINF:-1, PT_SPORTTV2
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_sporttv2
+#EXTINF:-1, PT_SPORTTV3
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_sporttv3
+#EXTINF:-1, PT_SPORTTV4
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_sporttv4
+#EXTINF:-1, PT_SPORTTV5
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_sporttv5
+#EXTINF:-1, PT_SPORTTV6
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_sporttv6
+#EXTINF:-1, PT_SPORTTV7
+https://drove-toronto-creates-keno.trycloudflare.com/stream/pt_sporttv7

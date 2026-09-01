@@ -307,3 +307,5 @@ http://192.168.0.105:9999/stream/redegospel
 http://192.168.0.105:9999/stream/redevida
 #EXTINF:-1, APARECIDA
 http://192.168.0.105:9999/stream/aparecida
+#EXTINF:-1, 24H-TODO-MUNDO-ODEIA-O-CHRIS
+http://192.168.0.105:9999/stream/24h-todo-mundo-odeia-o-chris

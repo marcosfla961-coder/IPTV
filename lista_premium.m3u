@@ -1,309 +1,309 @@
 #EXTM3U
 #EXTINF:-1, BANDSP
-http://192.168.0.105:9999/stream/bandsp
+http://192.168.0.102:9999/stream/bandsp
 #EXTINF:-1, GLOBODF
-http://192.168.0.105:9999/stream/globodf
+http://192.168.0.102:9999/stream/globodf
 #EXTINF:-1, GLOBOESP
-http://192.168.0.105:9999/stream/globoesp
+http://192.168.0.102:9999/stream/globoesp
 #EXTINF:-1, GLOBOMG
-http://192.168.0.105:9999/stream/globomg
+http://192.168.0.102:9999/stream/globomg
 #EXTINF:-1, GLOBORS
-http://192.168.0.105:9999/stream/globors
+http://192.168.0.102:9999/stream/globors
 #EXTINF:-1, GLOBORJ
-http://192.168.0.105:9999/stream/globorj
+http://192.168.0.102:9999/stream/globorj
 #EXTINF:-1, GLOBOSP
-http://192.168.0.105:9999/stream/globosp
+http://192.168.0.102:9999/stream/globosp
 #EXTINF:-1, RECORDDF
-http://192.168.0.105:9999/stream/recorddf
+http://192.168.0.102:9999/stream/recorddf
 #EXTINF:-1, RECORDESP
-http://192.168.0.105:9999/stream/recordesp
+http://192.168.0.102:9999/stream/recordesp
 #EXTINF:-1, RECORDMG
-http://192.168.0.105:9999/stream/recordmg
+http://192.168.0.102:9999/stream/recordmg
 #EXTINF:-1, RECORDRJ
-http://192.168.0.105:9999/stream/recordrj
+http://192.168.0.102:9999/stream/recordrj
 #EXTINF:-1, RECORDSP
-http://192.168.0.105:9999/stream/recordsp
+http://192.168.0.102:9999/stream/recordsp
 #EXTINF:-1, REDETV
-http://192.168.0.105:9999/stream/redetv
+http://192.168.0.102:9999/stream/redetv
 #EXTINF:-1, SBTRJ
-http://192.168.0.105:9999/stream/sbtrj
+http://192.168.0.102:9999/stream/sbtrj
 #EXTINF:-1, SBTSP
-http://192.168.0.105:9999/stream/sbtsp
+http://192.168.0.102:9999/stream/sbtsp
 #EXTINF:-1, CULTURA
-http://192.168.0.105:9999/stream/cultura
+http://192.168.0.102:9999/stream/cultura
 #EXTINF:-1, ADULTSWIM
-http://192.168.0.105:9999/stream/adultswim
+http://192.168.0.102:9999/stream/adultswim
 #EXTINF:-1, ANIMALPLANET
-http://192.168.0.105:9999/stream/animalplanet
+http://192.168.0.102:9999/stream/animalplanet
 #EXTINF:-1, COMEDYCENTRAL
-http://192.168.0.105:9999/stream/comedycentral
+http://192.168.0.102:9999/stream/comedycentral
 #EXTINF:-1, DISCOVERYCHANNEL
-http://192.168.0.105:9999/stream/discoverychannel
+http://192.168.0.102:9999/stream/discoverychannel
 #EXTINF:-1, DISCOVERYHH
-http://192.168.0.105:9999/stream/discoveryhh
+http://192.168.0.102:9999/stream/discoveryhh
 #EXTINF:-1, DISCOVERYSCIENCE
-http://192.168.0.105:9999/stream/discoveryscience
+http://192.168.0.102:9999/stream/discoveryscience
 #EXTINF:-1, DISCOVERYTHEATER
-http://192.168.0.105:9999/stream/discoverytheater
+http://192.168.0.102:9999/stream/discoverytheater
 #EXTINF:-1, DISCOVERYTURBO
-http://192.168.0.105:9999/stream/discoveryturbo
+http://192.168.0.102:9999/stream/discoveryturbo
 #EXTINF:-1, DISCOVERYWORLD
-http://192.168.0.105:9999/stream/discoveryworld
+http://192.168.0.102:9999/stream/discoveryworld
 #EXTINF:-1, FOODNETWORK
-http://192.168.0.105:9999/stream/foodnetwork
+http://192.168.0.102:9999/stream/foodnetwork
 #EXTINF:-1, GNT
-http://192.168.0.105:9999/stream/gnt
+http://192.168.0.102:9999/stream/gnt
 #EXTINF:-1, HGTV
-http://192.168.0.105:9999/stream/hgtv
+http://192.168.0.102:9999/stream/hgtv
 #EXTINF:-1, HISTORY
-http://192.168.0.105:9999/stream/history
+http://192.168.0.102:9999/stream/history
 #EXTINF:-1, HISTORY2
-http://192.168.0.105:9999/stream/history2
+http://192.168.0.102:9999/stream/history2
 #EXTINF:-1, DISCOVERYID
-http://192.168.0.105:9999/stream/discoveryid
+http://192.168.0.102:9999/stream/discoveryid
 #EXTINF:-1, MTV
-http://192.168.0.105:9999/stream/mtv
+http://192.168.0.102:9999/stream/mtv
 #EXTINF:-1, MULTISHOW
-http://192.168.0.105:9999/stream/multishow
+http://192.168.0.102:9999/stream/multishow
 #EXTINF:-1, AMAZONPRIME
-http://192.168.0.105:9999/stream/amazonprime
+http://192.168.0.102:9999/stream/amazonprime
 #EXTINF:-1, AMAZONPRIME02
-http://192.168.0.105:9999/stream/amazonprime02
+http://192.168.0.102:9999/stream/amazonprime02
 #EXTINF:-1, AMAZONPRIME03
-http://192.168.0.105:9999/stream/amazonprime03
+http://192.168.0.102:9999/stream/amazonprime03
 #EXTINF:-1, AMAZONPRIME04
-http://192.168.0.105:9999/stream/amazonprime04
+http://192.168.0.102:9999/stream/amazonprime04
 #EXTINF:-1, AMAZONPRIME05
-http://192.168.0.105:9999/stream/amazonprime05
+http://192.168.0.102:9999/stream/amazonprime05
 #EXTINF:-1, APPLETV01
-http://192.168.0.105:9999/stream/appletv01
+http://192.168.0.102:9999/stream/appletv01
 #EXTINF:-1, APPLETV02
-http://192.168.0.105:9999/stream/appletv02
+http://192.168.0.102:9999/stream/appletv02
 #EXTINF:-1, APPLETV03
-http://192.168.0.105:9999/stream/appletv03
+http://192.168.0.102:9999/stream/appletv03
 #EXTINF:-1, APPLETV04
-http://192.168.0.105:9999/stream/appletv04
+http://192.168.0.102:9999/stream/appletv04
 #EXTINF:-1, APPLETV05
-http://192.168.0.105:9999/stream/appletv05
+http://192.168.0.102:9999/stream/appletv05
 #EXTINF:-1, APPLETV06
-http://192.168.0.105:9999/stream/appletv06
+http://192.168.0.102:9999/stream/appletv06
 #EXTINF:-1, BAND_SPORTS
-http://192.168.0.105:9999/stream/band_sports
+http://192.168.0.102:9999/stream/band_sports
 #EXTINF:-1, CANALGOAT
-http://192.168.0.105:9999/stream/canalgoat
+http://192.168.0.102:9999/stream/canalgoat
 #EXTINF:-1, OFF
-http://192.168.0.105:9999/stream/off
+http://192.168.0.102:9999/stream/off
 #EXTINF:-1, CAZETV
-http://192.168.0.105:9999/stream/cazetv
+http://192.168.0.102:9999/stream/cazetv
 #EXTINF:-1, CAZETV2
-http://192.168.0.105:9999/stream/cazetv2
+http://192.168.0.102:9999/stream/cazetv2
 #EXTINF:-1, CAZETV3
-http://192.168.0.105:9999/stream/cazetv3
+http://192.168.0.102:9999/stream/cazetv3
 #EXTINF:-1, CAZETV4
-http://192.168.0.105:9999/stream/cazetv4
+http://192.168.0.102:9999/stream/cazetv4
 #EXTINF:-1, CAZETV5
-http://192.168.0.105:9999/stream/cazetv5
+http://192.168.0.102:9999/stream/cazetv5
 #EXTINF:-1, CAZETV6
-http://192.168.0.105:9999/stream/cazetv6
+http://192.168.0.102:9999/stream/cazetv6
 #EXTINF:-1, COMBATE
-http://192.168.0.105:9999/stream/combate
+http://192.168.0.102:9999/stream/combate
 #EXTINF:-1, DAZN
-http://192.168.0.105:9999/stream/dazn
+http://192.168.0.102:9999/stream/dazn
 #EXTINF:-1, DISNEYPLUS07
-http://192.168.0.105:9999/stream/disneyplus07
+http://192.168.0.102:9999/stream/disneyplus07
 #EXTINF:-1, DISNEYPLUS08
-http://192.168.0.105:9999/stream/disneyplus08
+http://192.168.0.102:9999/stream/disneyplus08
 #EXTINF:-1, DISNEYPLUS09
-http://192.168.0.105:9999/stream/disneyplus09
+http://192.168.0.102:9999/stream/disneyplus09
 #EXTINF:-1, DISNEYPLUS
-http://192.168.0.105:9999/stream/disneyplus
+http://192.168.0.102:9999/stream/disneyplus
 #EXTINF:-1, DISNEYPLUS02
-http://192.168.0.105:9999/stream/disneyplus02
+http://192.168.0.102:9999/stream/disneyplus02
 #EXTINF:-1, DISNEYPLUS03
-http://192.168.0.105:9999/stream/disneyplus03
+http://192.168.0.102:9999/stream/disneyplus03
 #EXTINF:-1, DISNEYPLUS04
-http://192.168.0.105:9999/stream/disneyplus04
+http://192.168.0.102:9999/stream/disneyplus04
 #EXTINF:-1, DISNEYPLUS05
-http://192.168.0.105:9999/stream/disneyplus05
+http://192.168.0.102:9999/stream/disneyplus05
 #EXTINF:-1, DISNEYPLUS06
-http://192.168.0.105:9999/stream/disneyplus06
+http://192.168.0.102:9999/stream/disneyplus06
 #EXTINF:-1, ESPN
-http://192.168.0.105:9999/stream/espn
+http://192.168.0.102:9999/stream/espn
 #EXTINF:-1, ESPN2
-http://192.168.0.105:9999/stream/espn2
+http://192.168.0.102:9999/stream/espn2
 #EXTINF:-1, ESPN3
-http://192.168.0.105:9999/stream/espn3
+http://192.168.0.102:9999/stream/espn3
 #EXTINF:-1, ESPN4
-http://192.168.0.105:9999/stream/espn4
+http://192.168.0.102:9999/stream/espn4
 #EXTINF:-1, ESPN5
-http://192.168.0.105:9999/stream/espn5
+http://192.168.0.102:9999/stream/espn5
 #EXTINF:-1, ESPN6
-http://192.168.0.105:9999/stream/espn6
+http://192.168.0.102:9999/stream/espn6
 #EXTINF:-1, GETV
-http://192.168.0.105:9999/stream/getv
+http://192.168.0.102:9999/stream/getv
 #EXTINF:-1, MAX
-http://192.168.0.105:9999/stream/max
+http://192.168.0.102:9999/stream/max
 #EXTINF:-1, MAX02
-http://192.168.0.105:9999/stream/max02
+http://192.168.0.102:9999/stream/max02
 #EXTINF:-1, MAX03
-http://192.168.0.105:9999/stream/max03
+http://192.168.0.102:9999/stream/max03
 #EXTINF:-1, MAX04
-http://192.168.0.105:9999/stream/max04
+http://192.168.0.102:9999/stream/max04
 #EXTINF:-1, MAX05
-http://192.168.0.105:9999/stream/max05
+http://192.168.0.102:9999/stream/max05
 #EXTINF:-1, MAX06
-http://192.168.0.105:9999/stream/max06
+http://192.168.0.102:9999/stream/max06
 #EXTINF:-1, NSPORTS
-http://192.168.0.105:9999/stream/nsports
+http://192.168.0.102:9999/stream/nsports
 #EXTINF:-1, NOSSOFUTEBOL
-http://192.168.0.105:9999/stream/nossofutebol
+http://192.168.0.102:9999/stream/nossofutebol
 #EXTINF:-1, PARAMOUNT
-http://192.168.0.105:9999/stream/paramount
+http://192.168.0.102:9999/stream/paramount
 #EXTINF:-1, PARAMOUNT02
-http://192.168.0.105:9999/stream/paramount02
+http://192.168.0.102:9999/stream/paramount02
 #EXTINF:-1, PARAMOUNT03
-http://192.168.0.105:9999/stream/paramount03
+http://192.168.0.102:9999/stream/paramount03
 #EXTINF:-1, PARAMOUNT04
-http://192.168.0.105:9999/stream/paramount04
+http://192.168.0.102:9999/stream/paramount04
 #EXTINF:-1, PARAMOUNT05
-http://192.168.0.105:9999/stream/paramount05
+http://192.168.0.102:9999/stream/paramount05
 #EXTINF:-1, PARAMOUNT06
-http://192.168.0.105:9999/stream/paramount06
+http://192.168.0.102:9999/stream/paramount06
 #EXTINF:-1, PARAMOUNT07
-http://192.168.0.105:9999/stream/paramount07
+http://192.168.0.102:9999/stream/paramount07
 #EXTINF:-1, PREMIERE2
-http://192.168.0.105:9999/stream/premiere2
+http://192.168.0.102:9999/stream/premiere2
 #EXTINF:-1, PREMIERE3
-http://192.168.0.105:9999/stream/premiere3
+http://192.168.0.102:9999/stream/premiere3
 #EXTINF:-1, PREMIERE4
-http://192.168.0.105:9999/stream/premiere4
+http://192.168.0.102:9999/stream/premiere4
 #EXTINF:-1, PREMIERE5
-http://192.168.0.105:9999/stream/premiere5
+http://192.168.0.102:9999/stream/premiere5
 #EXTINF:-1, PREMIERE6
-http://192.168.0.105:9999/stream/premiere6
+http://192.168.0.102:9999/stream/premiere6
 #EXTINF:-1, PREMIERE7
-http://192.168.0.105:9999/stream/premiere7
+http://192.168.0.102:9999/stream/premiere7
 #EXTINF:-1, PREMIERE8
-http://192.168.0.105:9999/stream/premiere8
+http://192.168.0.102:9999/stream/premiere8
 #EXTINF:-1, PREMIERE
-http://192.168.0.105:9999/stream/premiere
+http://192.168.0.102:9999/stream/premiere
 #EXTINF:-1, SPORTV
-http://192.168.0.105:9999/stream/sportv
+http://192.168.0.102:9999/stream/sportv
 #EXTINF:-1, SPORTV2
-http://192.168.0.105:9999/stream/sportv2
+http://192.168.0.102:9999/stream/sportv2
 #EXTINF:-1, SPORTV3
-http://192.168.0.105:9999/stream/sportv3
+http://192.168.0.102:9999/stream/sportv3
 #EXTINF:-1, SPORTYNET
-http://192.168.0.105:9999/stream/sportynet
+http://192.168.0.102:9999/stream/sportynet
 #EXTINF:-1, SPORTYNET1
-http://192.168.0.105:9999/stream/sportynet1
+http://192.168.0.102:9999/stream/sportynet1
 #EXTINF:-1, SPORTYNET2
-http://192.168.0.105:9999/stream/sportynet2
+http://192.168.0.102:9999/stream/sportynet2
 #EXTINF:-1, SPORTYNET3
-http://192.168.0.105:9999/stream/sportynet3
+http://192.168.0.102:9999/stream/sportynet3
 #EXTINF:-1, XSPORTS
-http://192.168.0.105:9999/stream/xsports
+http://192.168.0.102:9999/stream/xsports
 #EXTINF:-1, AE
-http://192.168.0.105:9999/stream/ae
+http://192.168.0.102:9999/stream/ae
 #EXTINF:-1, AMC
-http://192.168.0.105:9999/stream/amc
+http://192.168.0.102:9999/stream/amc
 #EXTINF:-1, AMCSERIES
-http://192.168.0.105:9999/stream/amcseries
+http://192.168.0.102:9999/stream/amcseries
 #EXTINF:-1, AXN
-http://192.168.0.105:9999/stream/axn
+http://192.168.0.102:9999/stream/axn
 #EXTINF:-1, CINEMAX
-http://192.168.0.105:9999/stream/cinemax
+http://192.168.0.102:9999/stream/cinemax
 #EXTINF:-1, GLOBOPLAYNOVELAS
-http://192.168.0.105:9999/stream/globoplaynovelas
+http://192.168.0.102:9999/stream/globoplaynovelas
 #EXTINF:-1, HBO
-http://192.168.0.105:9999/stream/hbo
+http://192.168.0.102:9999/stream/hbo
 #EXTINF:-1, HBO2
-http://192.168.0.105:9999/stream/hbo2
+http://192.168.0.102:9999/stream/hbo2
 #EXTINF:-1, HBOFAMILY
-http://192.168.0.105:9999/stream/hbofamily
+http://192.168.0.102:9999/stream/hbofamily
 #EXTINF:-1, HBOMUNDI
-http://192.168.0.105:9999/stream/hbomundi
+http://192.168.0.102:9999/stream/hbomundi
 #EXTINF:-1, HBOPLUS
-http://192.168.0.105:9999/stream/hboplus
+http://192.168.0.102:9999/stream/hboplus
 #EXTINF:-1, HBOPOP
-http://192.168.0.105:9999/stream/hbopop
+http://192.168.0.102:9999/stream/hbopop
 #EXTINF:-1, HBOSIGNATURE
-http://192.168.0.105:9999/stream/hbosignature
+http://192.168.0.102:9999/stream/hbosignature
 #EXTINF:-1, HBOXTREME
-http://192.168.0.105:9999/stream/hboxtreme
+http://192.168.0.102:9999/stream/hboxtreme
 #EXTINF:-1, MEGAPIX
-http://192.168.0.105:9999/stream/megapix
+http://192.168.0.102:9999/stream/megapix
 #EXTINF:-1, PARAMOUNTNETWORK
-http://192.168.0.105:9999/stream/paramountnetwork
+http://192.168.0.102:9999/stream/paramountnetwork
 #EXTINF:-1, SONY
-http://192.168.0.105:9999/stream/sony
+http://192.168.0.102:9999/stream/sony
 #EXTINF:-1, SPACE
-http://192.168.0.105:9999/stream/space
+http://192.168.0.102:9999/stream/space
 #EXTINF:-1, STUDIOUNIVERSAL
-http://192.168.0.105:9999/stream/studiouniversal
+http://192.168.0.102:9999/stream/studiouniversal
 #EXTINF:-1, TELECINEACTION
-http://192.168.0.105:9999/stream/telecineaction
+http://192.168.0.102:9999/stream/telecineaction
 #EXTINF:-1, TELECINECULT
-http://192.168.0.105:9999/stream/telecinecult
+http://192.168.0.102:9999/stream/telecinecult
 #EXTINF:-1, TELECINEFUN
-http://192.168.0.105:9999/stream/telecinefun
+http://192.168.0.102:9999/stream/telecinefun
 #EXTINF:-1, TELECINEPIPOCA
-http://192.168.0.105:9999/stream/telecinepipoca
+http://192.168.0.102:9999/stream/telecinepipoca
 #EXTINF:-1, TELECINEPREMIUM
-http://192.168.0.105:9999/stream/telecinepremium
+http://192.168.0.102:9999/stream/telecinepremium
 #EXTINF:-1, TELECINETOUCH
-http://192.168.0.105:9999/stream/telecinetouch
+http://192.168.0.102:9999/stream/telecinetouch
 #EXTINF:-1, TNT
-http://192.168.0.105:9999/stream/tnt
+http://192.168.0.102:9999/stream/tnt
 #EXTINF:-1, TNTNOVELAS
-http://192.168.0.105:9999/stream/tntnovelas
+http://192.168.0.102:9999/stream/tntnovelas
 #EXTINF:-1, TNTSERIES
-http://192.168.0.105:9999/stream/tntseries
+http://192.168.0.102:9999/stream/tntseries
 #EXTINF:-1, UNIVERSAL
-http://192.168.0.105:9999/stream/universal
+http://192.168.0.102:9999/stream/universal
 #EXTINF:-1, USA
-http://192.168.0.105:9999/stream/usa
+http://192.168.0.102:9999/stream/usa
 #EXTINF:-1, WARNER
-http://192.168.0.105:9999/stream/warner
+http://192.168.0.102:9999/stream/warner
 #EXTINF:-1, CARTOONNETWORK
-http://192.168.0.105:9999/stream/cartoonnetwork
+http://192.168.0.102:9999/stream/cartoonnetwork
 #EXTINF:-1, CARTOONITO
-http://192.168.0.105:9999/stream/cartoonito
+http://192.168.0.102:9999/stream/cartoonito
 #EXTINF:-1, DISCOVERYKIDS
-http://192.168.0.105:9999/stream/discoverykids
+http://192.168.0.102:9999/stream/discoverykids
 #EXTINF:-1, DREAMWORKS
-http://192.168.0.105:9999/stream/dreamworks
+http://192.168.0.102:9999/stream/dreamworks
 #EXTINF:-1, GLOOB
-http://192.168.0.105:9999/stream/gloob
+http://192.168.0.102:9999/stream/gloob
 #EXTINF:-1, GLOOBINHO
-http://192.168.0.105:9999/stream/gloobinho
+http://192.168.0.102:9999/stream/gloobinho
 #EXTINF:-1, NICKJR
-http://192.168.0.105:9999/stream/nickjr
+http://192.168.0.102:9999/stream/nickjr
 #EXTINF:-1, NICKELODEON
-http://192.168.0.105:9999/stream/nickelodeon
+http://192.168.0.102:9999/stream/nickelodeon
 #EXTINF:-1, TOONCAST
-http://192.168.0.105:9999/stream/tooncast
+http://192.168.0.102:9999/stream/tooncast
 #EXTINF:-1, TVRATIMBUM
-http://192.168.0.105:9999/stream/tvratimbum
+http://192.168.0.102:9999/stream/tvratimbum
 #EXTINF:-1, BANDNEWS
-http://192.168.0.105:9999/stream/bandnews
+http://192.168.0.102:9999/stream/bandnews
 #EXTINF:-1, CNNBRASIL
-http://192.168.0.105:9999/stream/cnnbrasil
+http://192.168.0.102:9999/stream/cnnbrasil
 #EXTINF:-1, GLOBONEWS
-http://192.168.0.105:9999/stream/globonews
+http://192.168.0.102:9999/stream/globonews
 #EXTINF:-1, JOVEMPANNEWS
-http://192.168.0.105:9999/stream/jovempannews
+http://192.168.0.102:9999/stream/jovempannews
 #EXTINF:-1, RECORDNEWS
-http://192.168.0.105:9999/stream/recordnews
+http://192.168.0.102:9999/stream/recordnews
 #EXTINF:-1, CANCAONOVA
-http://192.168.0.105:9999/stream/cancaonova
+http://192.168.0.102:9999/stream/cancaonova
 #EXTINF:-1, NOVOTEMPO
-http://192.168.0.105:9999/stream/novotempo
+http://192.168.0.102:9999/stream/novotempo
 #EXTINF:-1, PAIERTERNO
-http://192.168.0.105:9999/stream/paierterno
+http://192.168.0.102:9999/stream/paierterno
 #EXTINF:-1, REDEGOSPEL
-http://192.168.0.105:9999/stream/redegospel
+http://192.168.0.102:9999/stream/redegospel
 #EXTINF:-1, REDEVIDA
-http://192.168.0.105:9999/stream/redevida
+http://192.168.0.102:9999/stream/redevida
 #EXTINF:-1, APARECIDA
-http://192.168.0.105:9999/stream/aparecida
+http://192.168.0.102:9999/stream/aparecida

@@ -1,309 +1,409 @@
 #EXTM3U
-#EXTINF:-1, BANDSP
-http://192.168.0.102:9999/stream/bandsp
-#EXTINF:-1, GLOBODF
-http://192.168.0.102:9999/stream/globodf
-#EXTINF:-1, GLOBOESP
-http://192.168.0.102:9999/stream/globoesp
-#EXTINF:-1, GLOBOMG
-http://192.168.0.102:9999/stream/globomg
-#EXTINF:-1, GLOBORS
-http://192.168.0.102:9999/stream/globors
-#EXTINF:-1, GLOBORJ
-http://192.168.0.102:9999/stream/globorj
-#EXTINF:-1, GLOBOSP
-http://192.168.0.102:9999/stream/globosp
-#EXTINF:-1, RECORDDF
-http://192.168.0.102:9999/stream/recorddf
-#EXTINF:-1, RECORDESP
-http://192.168.0.102:9999/stream/recordesp
-#EXTINF:-1, RECORDMG
-http://192.168.0.102:9999/stream/recordmg
-#EXTINF:-1, RECORDRJ
-http://192.168.0.102:9999/stream/recordrj
-#EXTINF:-1, RECORDSP
-http://192.168.0.102:9999/stream/recordsp
-#EXTINF:-1, REDETV
-http://192.168.0.102:9999/stream/redetv
-#EXTINF:-1, SBTRJ
-http://192.168.0.102:9999/stream/sbtrj
-#EXTINF:-1, SBTSP
-http://192.168.0.102:9999/stream/sbtsp
-#EXTINF:-1, CULTURA
-http://192.168.0.102:9999/stream/cultura
-#EXTINF:-1, ADULTSWIM
-http://192.168.0.102:9999/stream/adultswim
-#EXTINF:-1, ANIMALPLANET
-http://192.168.0.102:9999/stream/animalplanet
-#EXTINF:-1, COMEDYCENTRAL
-http://192.168.0.102:9999/stream/comedycentral
-#EXTINF:-1, DISCOVERYCHANNEL
-http://192.168.0.102:9999/stream/discoverychannel
-#EXTINF:-1, DISCOVERYHH
-http://192.168.0.102:9999/stream/discoveryhh
-#EXTINF:-1, DISCOVERYSCIENCE
-http://192.168.0.102:9999/stream/discoveryscience
-#EXTINF:-1, DISCOVERYTHEATER
-http://192.168.0.102:9999/stream/discoverytheater
-#EXTINF:-1, DISCOVERYTURBO
-http://192.168.0.102:9999/stream/discoveryturbo
-#EXTINF:-1, DISCOVERYWORLD
-http://192.168.0.102:9999/stream/discoveryworld
-#EXTINF:-1, FOODNETWORK
-http://192.168.0.102:9999/stream/foodnetwork
-#EXTINF:-1, GNT
-http://192.168.0.102:9999/stream/gnt
-#EXTINF:-1, HGTV
-http://192.168.0.102:9999/stream/hgtv
-#EXTINF:-1, HISTORY
-http://192.168.0.102:9999/stream/history
-#EXTINF:-1, HISTORY2
-http://192.168.0.102:9999/stream/history2
-#EXTINF:-1, DISCOVERYID
-http://192.168.0.102:9999/stream/discoveryid
-#EXTINF:-1, MTV
-http://192.168.0.102:9999/stream/mtv
-#EXTINF:-1, MULTISHOW
-http://192.168.0.102:9999/stream/multishow
-#EXTINF:-1, AMAZONPRIME
-http://192.168.0.102:9999/stream/amazonprime
-#EXTINF:-1, AMAZONPRIME02
-http://192.168.0.102:9999/stream/amazonprime02
-#EXTINF:-1, AMAZONPRIME03
-http://192.168.0.102:9999/stream/amazonprime03
-#EXTINF:-1, AMAZONPRIME04
-http://192.168.0.102:9999/stream/amazonprime04
-#EXTINF:-1, AMAZONPRIME05
-http://192.168.0.102:9999/stream/amazonprime05
-#EXTINF:-1, APPLETV01
-http://192.168.0.102:9999/stream/appletv01
-#EXTINF:-1, APPLETV02
-http://192.168.0.102:9999/stream/appletv02
-#EXTINF:-1, APPLETV03
-http://192.168.0.102:9999/stream/appletv03
-#EXTINF:-1, APPLETV04
-http://192.168.0.102:9999/stream/appletv04
-#EXTINF:-1, APPLETV05
-http://192.168.0.102:9999/stream/appletv05
-#EXTINF:-1, APPLETV06
-http://192.168.0.102:9999/stream/appletv06
-#EXTINF:-1, BAND_SPORTS
-http://192.168.0.102:9999/stream/band_sports
-#EXTINF:-1, CANALGOAT
-http://192.168.0.102:9999/stream/canalgoat
-#EXTINF:-1, OFF
-http://192.168.0.102:9999/stream/off
-#EXTINF:-1, CAZETV
-http://192.168.0.102:9999/stream/cazetv
-#EXTINF:-1, CAZETV2
-http://192.168.0.102:9999/stream/cazetv2
-#EXTINF:-1, CAZETV3
-http://192.168.0.102:9999/stream/cazetv3
-#EXTINF:-1, CAZETV4
-http://192.168.0.102:9999/stream/cazetv4
-#EXTINF:-1, CAZETV5
-http://192.168.0.102:9999/stream/cazetv5
-#EXTINF:-1, CAZETV6
-http://192.168.0.102:9999/stream/cazetv6
-#EXTINF:-1, COMBATE
-http://192.168.0.102:9999/stream/combate
-#EXTINF:-1, DAZN
-http://192.168.0.102:9999/stream/dazn
-#EXTINF:-1, DISNEYPLUS07
-http://192.168.0.102:9999/stream/disneyplus07
-#EXTINF:-1, DISNEYPLUS08
-http://192.168.0.102:9999/stream/disneyplus08
-#EXTINF:-1, DISNEYPLUS09
-http://192.168.0.102:9999/stream/disneyplus09
-#EXTINF:-1, DISNEYPLUS
-http://192.168.0.102:9999/stream/disneyplus
-#EXTINF:-1, DISNEYPLUS02
-http://192.168.0.102:9999/stream/disneyplus02
-#EXTINF:-1, DISNEYPLUS03
-http://192.168.0.102:9999/stream/disneyplus03
-#EXTINF:-1, DISNEYPLUS04
-http://192.168.0.102:9999/stream/disneyplus04
-#EXTINF:-1, DISNEYPLUS05
-http://192.168.0.102:9999/stream/disneyplus05
-#EXTINF:-1, DISNEYPLUS06
-http://192.168.0.102:9999/stream/disneyplus06
-#EXTINF:-1, ESPN
-http://192.168.0.102:9999/stream/espn
-#EXTINF:-1, ESPN2
-http://192.168.0.102:9999/stream/espn2
-#EXTINF:-1, ESPN3
-http://192.168.0.102:9999/stream/espn3
-#EXTINF:-1, ESPN4
-http://192.168.0.102:9999/stream/espn4
-#EXTINF:-1, ESPN5
-http://192.168.0.102:9999/stream/espn5
-#EXTINF:-1, ESPN6
-http://192.168.0.102:9999/stream/espn6
-#EXTINF:-1, GETV
-http://192.168.0.102:9999/stream/getv
-#EXTINF:-1, MAX
-http://192.168.0.102:9999/stream/max
-#EXTINF:-1, MAX02
-http://192.168.0.102:9999/stream/max02
-#EXTINF:-1, MAX03
-http://192.168.0.102:9999/stream/max03
-#EXTINF:-1, MAX04
-http://192.168.0.102:9999/stream/max04
-#EXTINF:-1, MAX05
-http://192.168.0.102:9999/stream/max05
-#EXTINF:-1, MAX06
-http://192.168.0.102:9999/stream/max06
-#EXTINF:-1, NSPORTS
-http://192.168.0.102:9999/stream/nsports
-#EXTINF:-1, NOSSOFUTEBOL
-http://192.168.0.102:9999/stream/nossofutebol
-#EXTINF:-1, PARAMOUNT
-http://192.168.0.102:9999/stream/paramount
-#EXTINF:-1, PARAMOUNT02
-http://192.168.0.102:9999/stream/paramount02
-#EXTINF:-1, PARAMOUNT03
-http://192.168.0.102:9999/stream/paramount03
-#EXTINF:-1, PARAMOUNT04
-http://192.168.0.102:9999/stream/paramount04
-#EXTINF:-1, PARAMOUNT05
-http://192.168.0.102:9999/stream/paramount05
-#EXTINF:-1, PARAMOUNT06
-http://192.168.0.102:9999/stream/paramount06
-#EXTINF:-1, PARAMOUNT07
-http://192.168.0.102:9999/stream/paramount07
-#EXTINF:-1, PREMIERE2
-http://192.168.0.102:9999/stream/premiere2
-#EXTINF:-1, PREMIERE3
-http://192.168.0.102:9999/stream/premiere3
-#EXTINF:-1, PREMIERE4
-http://192.168.0.102:9999/stream/premiere4
-#EXTINF:-1, PREMIERE5
-http://192.168.0.102:9999/stream/premiere5
-#EXTINF:-1, PREMIERE6
-http://192.168.0.102:9999/stream/premiere6
-#EXTINF:-1, PREMIERE7
-http://192.168.0.102:9999/stream/premiere7
-#EXTINF:-1, PREMIERE8
-http://192.168.0.102:9999/stream/premiere8
-#EXTINF:-1, PREMIERE
-http://192.168.0.102:9999/stream/premiere
-#EXTINF:-1, SPORTV
-http://192.168.0.102:9999/stream/sportv
-#EXTINF:-1, SPORTV2
-http://192.168.0.102:9999/stream/sportv2
-#EXTINF:-1, SPORTV3
-http://192.168.0.102:9999/stream/sportv3
-#EXTINF:-1, SPORTYNET
-http://192.168.0.102:9999/stream/sportynet
-#EXTINF:-1, SPORTYNET1
-http://192.168.0.102:9999/stream/sportynet1
-#EXTINF:-1, SPORTYNET2
-http://192.168.0.102:9999/stream/sportynet2
-#EXTINF:-1, SPORTYNET3
-http://192.168.0.102:9999/stream/sportynet3
-#EXTINF:-1, XSPORTS
-http://192.168.0.102:9999/stream/xsports
-#EXTINF:-1, AE
-http://192.168.0.102:9999/stream/ae
-#EXTINF:-1, AMC
-http://192.168.0.102:9999/stream/amc
-#EXTINF:-1, AMCSERIES
-http://192.168.0.102:9999/stream/amcseries
-#EXTINF:-1, AXN
-http://192.168.0.102:9999/stream/axn
-#EXTINF:-1, CINEMAX
-http://192.168.0.102:9999/stream/cinemax
-#EXTINF:-1, GLOBOPLAYNOVELAS
-http://192.168.0.102:9999/stream/globoplaynovelas
-#EXTINF:-1, HBO
-http://192.168.0.102:9999/stream/hbo
-#EXTINF:-1, HBO2
-http://192.168.0.102:9999/stream/hbo2
-#EXTINF:-1, HBOFAMILY
-http://192.168.0.102:9999/stream/hbofamily
-#EXTINF:-1, HBOMUNDI
-http://192.168.0.102:9999/stream/hbomundi
-#EXTINF:-1, HBOPLUS
-http://192.168.0.102:9999/stream/hboplus
-#EXTINF:-1, HBOPOP
-http://192.168.0.102:9999/stream/hbopop
-#EXTINF:-1, HBOSIGNATURE
-http://192.168.0.102:9999/stream/hbosignature
-#EXTINF:-1, HBOXTREME
-http://192.168.0.102:9999/stream/hboxtreme
-#EXTINF:-1, MEGAPIX
-http://192.168.0.102:9999/stream/megapix
-#EXTINF:-1, PARAMOUNTNETWORK
-http://192.168.0.102:9999/stream/paramountnetwork
-#EXTINF:-1, SONY
-http://192.168.0.102:9999/stream/sony
-#EXTINF:-1, SPACE
-http://192.168.0.102:9999/stream/space
-#EXTINF:-1, STUDIOUNIVERSAL
-http://192.168.0.102:9999/stream/studiouniversal
-#EXTINF:-1, TELECINEACTION
-http://192.168.0.102:9999/stream/telecineaction
-#EXTINF:-1, TELECINECULT
-http://192.168.0.102:9999/stream/telecinecult
-#EXTINF:-1, TELECINEFUN
-http://192.168.0.102:9999/stream/telecinefun
-#EXTINF:-1, TELECINEPIPOCA
-http://192.168.0.102:9999/stream/telecinepipoca
-#EXTINF:-1, TELECINEPREMIUM
-http://192.168.0.102:9999/stream/telecinepremium
-#EXTINF:-1, TELECINETOUCH
-http://192.168.0.102:9999/stream/telecinetouch
-#EXTINF:-1, TNT
-http://192.168.0.102:9999/stream/tnt
-#EXTINF:-1, TNTNOVELAS
-http://192.168.0.102:9999/stream/tntnovelas
-#EXTINF:-1, TNTSERIES
-http://192.168.0.102:9999/stream/tntseries
-#EXTINF:-1, UNIVERSAL
-http://192.168.0.102:9999/stream/universal
-#EXTINF:-1, USA
-http://192.168.0.102:9999/stream/usa
-#EXTINF:-1, WARNER
-http://192.168.0.102:9999/stream/warner
-#EXTINF:-1, CARTOONNETWORK
-http://192.168.0.102:9999/stream/cartoonnetwork
-#EXTINF:-1, CARTOONITO
-http://192.168.0.102:9999/stream/cartoonito
-#EXTINF:-1, DISCOVERYKIDS
-http://192.168.0.102:9999/stream/discoverykids
-#EXTINF:-1, DREAMWORKS
-http://192.168.0.102:9999/stream/dreamworks
-#EXTINF:-1, GLOOB
-http://192.168.0.102:9999/stream/gloob
-#EXTINF:-1, GLOOBINHO
-http://192.168.0.102:9999/stream/gloobinho
-#EXTINF:-1, NICKJR
-http://192.168.0.102:9999/stream/nickjr
-#EXTINF:-1, NICKELODEON
-http://192.168.0.102:9999/stream/nickelodeon
-#EXTINF:-1, TOONCAST
-http://192.168.0.102:9999/stream/tooncast
-#EXTINF:-1, TVRATIMBUM
-http://192.168.0.102:9999/stream/tvratimbum
-#EXTINF:-1, BANDNEWS
-http://192.168.0.102:9999/stream/bandnews
-#EXTINF:-1, CNNBRASIL
-http://192.168.0.102:9999/stream/cnnbrasil
-#EXTINF:-1, GLOBONEWS
-http://192.168.0.102:9999/stream/globonews
-#EXTINF:-1, JOVEMPANNEWS
-http://192.168.0.102:9999/stream/jovempannews
-#EXTINF:-1, RECORDNEWS
-http://192.168.0.102:9999/stream/recordnews
-#EXTINF:-1, CANCAONOVA
-http://192.168.0.102:9999/stream/cancaonova
-#EXTINF:-1, NOVOTEMPO
-http://192.168.0.102:9999/stream/novotempo
-#EXTINF:-1, PAIERTERNO
-http://192.168.0.102:9999/stream/paierterno
-#EXTINF:-1, REDEGOSPEL
-http://192.168.0.102:9999/stream/redegospel
-#EXTINF:-1, REDEVIDA
-http://192.168.0.102:9999/stream/redevida
-#EXTINF:-1, APARECIDA
-http://192.168.0.102:9999/stream/aparecida
+#EXTINF:-1,Cazetv
+https://keith-items-womens-cafe.trycloudflare.com/cazetv
+#EXTINF:-1,Cazetv2
+https://keith-items-womens-cafe.trycloudflare.com/cazetv2
+#EXTINF:-1,Cazetv3
+https://keith-items-womens-cafe.trycloudflare.com/cazetv3
+#EXTINF:-1,Combate
+https://keith-items-womens-cafe.trycloudflare.com/combate
+#EXTINF:-1,Disneyplus
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus
+#EXTINF:-1,Disneyplus2
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus2
+#EXTINF:-1,Disneyplus3
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus3
+#EXTINF:-1,Espn
+https://keith-items-womens-cafe.trycloudflare.com/espn
+#EXTINF:-1,Espn2
+https://keith-items-womens-cafe.trycloudflare.com/espn2
+#EXTINF:-1,Espn3
+https://keith-items-womens-cafe.trycloudflare.com/espn3
+#EXTINF:-1,Espn4
+https://keith-items-womens-cafe.trycloudflare.com/espn4
+#EXTINF:-1,Espn5
+https://keith-items-womens-cafe.trycloudflare.com/espn5
+#EXTINF:-1,Espn6
+https://keith-items-womens-cafe.trycloudflare.com/espn6
+#EXTINF:-1,Getv
+https://keith-items-womens-cafe.trycloudflare.com/getv
+#EXTINF:-1,Max1
+https://keith-items-womens-cafe.trycloudflare.com/max1
+#EXTINF:-1,Max2
+https://keith-items-womens-cafe.trycloudflare.com/max2
+#EXTINF:-1,Max3
+https://keith-items-womens-cafe.trycloudflare.com/max3
+#EXTINF:-1,Paramount
+https://keith-items-womens-cafe.trycloudflare.com/paramount
+#EXTINF:-1,Paramount2
+https://keith-items-womens-cafe.trycloudflare.com/paramount2
+#EXTINF:-1,Paramount3
+https://keith-items-womens-cafe.trycloudflare.com/paramount3
+#EXTINF:-1,Premiere
+https://keith-items-womens-cafe.trycloudflare.com/premiere
+#EXTINF:-1,Premiere2
+https://keith-items-womens-cafe.trycloudflare.com/premiere2
+#EXTINF:-1,Premiere3
+https://keith-items-womens-cafe.trycloudflare.com/premiere3
+#EXTINF:-1,Premiere4
+https://keith-items-womens-cafe.trycloudflare.com/premiere4
+#EXTINF:-1,Premiere5
+https://keith-items-womens-cafe.trycloudflare.com/premiere5
+#EXTINF:-1,Premiere6
+https://keith-items-womens-cafe.trycloudflare.com/premiere6
+#EXTINF:-1,Premiere7
+https://keith-items-womens-cafe.trycloudflare.com/premiere7
+#EXTINF:-1,Premiere8
+https://keith-items-womens-cafe.trycloudflare.com/premiere8
+#EXTINF:-1,Primevideo1
+https://keith-items-womens-cafe.trycloudflare.com/primevideo1
+#EXTINF:-1,Primevideo2
+https://keith-items-womens-cafe.trycloudflare.com/primevideo2
+#EXTINF:-1,Sportv
+https://keith-items-womens-cafe.trycloudflare.com/sportv
+#EXTINF:-1,Sportv2
+https://keith-items-womens-cafe.trycloudflare.com/sportv2
+#EXTINF:-1,Sportv3
+https://keith-items-womens-cafe.trycloudflare.com/sportv3
+#EXTINF:-1,Sportv4
+https://keith-items-womens-cafe.trycloudflare.com/sportv4
+#EXTINF:-1,Ufcfightpass
+https://keith-items-womens-cafe.trycloudflare.com/ufcfightpass
+#EXTINF:-1,Xsports
+https://keith-items-womens-cafe.trycloudflare.com/xsports
+#EXTINF:-1,24H Chaves
+https://keith-items-womens-cafe.trycloudflare.com/24h_chaves
+#EXTINF:-1,24H Dragonballz
+https://keith-items-womens-cafe.trycloudflare.com/24h_dragonballz
+#EXTINF:-1,24H Naruto
+https://keith-items-womens-cafe.trycloudflare.com/24h_naruto
+#EXTINF:-1,24H Simpsons
+https://keith-items-womens-cafe.trycloudflare.com/24h_simpsons
+#EXTINF:-1,24H Todomundoodiaocris
+https://keith-items-womens-cafe.trycloudflare.com/24h_todomundoodiaocris
+#EXTINF:-1,Cartoonnetwork
+https://keith-items-womens-cafe.trycloudflare.com/cartoonnetwork
+#EXTINF:-1,Cartoonito
+https://keith-items-womens-cafe.trycloudflare.com/cartoonito
+#EXTINF:-1,Discoverykids
+https://keith-items-womens-cafe.trycloudflare.com/discoverykids
+#EXTINF:-1,Gloob
+https://keith-items-womens-cafe.trycloudflare.com/gloob
+#EXTINF:-1,Animalplanet
+https://keith-items-womens-cafe.trycloudflare.com/animalplanet
+#EXTINF:-1,Discoverychannel
+https://keith-items-womens-cafe.trycloudflare.com/discoverychannel
+#EXTINF:-1,Discoveryhh
+https://keith-items-womens-cafe.trycloudflare.com/discoveryhh
+#EXTINF:-1,Discoveryid
+https://keith-items-womens-cafe.trycloudflare.com/discoveryid
+#EXTINF:-1,Discoveryscience
+https://keith-items-womens-cafe.trycloudflare.com/discoveryscience
+#EXTINF:-1,Discoverytheater
+https://keith-items-womens-cafe.trycloudflare.com/discoverytheater
+#EXTINF:-1,Discoveryturbo
+https://keith-items-womens-cafe.trycloudflare.com/discoveryturbo
+#EXTINF:-1,Discoveryworld
+https://keith-items-womens-cafe.trycloudflare.com/discoveryworld
+#EXTINF:-1,Fishtv
+https://keith-items-womens-cafe.trycloudflare.com/fishtv
+#EXTINF:-1,History
+https://keith-items-womens-cafe.trycloudflare.com/history
+#EXTINF:-1,History2
+https://keith-items-womens-cafe.trycloudflare.com/history2
+#EXTINF:-1,Ae
+https://keith-items-womens-cafe.trycloudflare.com/ae
+#EXTINF:-1,Amc
+https://keith-items-womens-cafe.trycloudflare.com/amc
+#EXTINF:-1,Axn
+https://keith-items-womens-cafe.trycloudflare.com/axn
+#EXTINF:-1,Adultswim
+https://keith-items-womens-cafe.trycloudflare.com/adultswim
+#EXTINF:-1,Cinemax
+https://keith-items-womens-cafe.trycloudflare.com/cinemax
+#EXTINF:-1,Comedycentral
+https://keith-items-womens-cafe.trycloudflare.com/comedycentral
+#EXTINF:-1,Gnt
+https://keith-items-womens-cafe.trycloudflare.com/gnt
+#EXTINF:-1,Hbo
+https://keith-items-womens-cafe.trycloudflare.com/hbo
+#EXTINF:-1,Hbo2
+https://keith-items-womens-cafe.trycloudflare.com/hbo2
+#EXTINF:-1,Hbofamily
+https://keith-items-womens-cafe.trycloudflare.com/hbofamily
+#EXTINF:-1,Hbomundi
+https://keith-items-womens-cafe.trycloudflare.com/hbomundi
+#EXTINF:-1,Hbopop
+https://keith-items-womens-cafe.trycloudflare.com/hbopop
+#EXTINF:-1,Hboplus
+https://keith-items-womens-cafe.trycloudflare.com/hboplus
+#EXTINF:-1,Hboxtreme
+https://keith-items-womens-cafe.trycloudflare.com/hboxtreme
+#EXTINF:-1,Hgtv
+https://keith-items-womens-cafe.trycloudflare.com/hgtv
+#EXTINF:-1,Megapix
+https://keith-items-womens-cafe.trycloudflare.com/megapix
+#EXTINF:-1,Off
+https://keith-items-womens-cafe.trycloudflare.com/off
+#EXTINF:-1,Sony
+https://keith-items-womens-cafe.trycloudflare.com/sony
+#EXTINF:-1,Space
+https://keith-items-womens-cafe.trycloudflare.com/space
+#EXTINF:-1,Starchannel
+https://keith-items-womens-cafe.trycloudflare.com/starchannel
+#EXTINF:-1,Studiouniversal
+https://keith-items-womens-cafe.trycloudflare.com/studiouniversal
+#EXTINF:-1,Tcm
+https://keith-items-womens-cafe.trycloudflare.com/tcm
+#EXTINF:-1,Tlc
+https://keith-items-womens-cafe.trycloudflare.com/tlc
+#EXTINF:-1,Tnt
+https://keith-items-womens-cafe.trycloudflare.com/tnt
+#EXTINF:-1,Tntnovelas
+https://keith-items-womens-cafe.trycloudflare.com/tntnovelas
+#EXTINF:-1,Tntseries
+https://keith-items-womens-cafe.trycloudflare.com/tntseries
+#EXTINF:-1,Telecineaction
+https://keith-items-womens-cafe.trycloudflare.com/telecineaction
+#EXTINF:-1,Telecinecult
+https://keith-items-womens-cafe.trycloudflare.com/telecinecult
+#EXTINF:-1,Telecinefun
+https://keith-items-womens-cafe.trycloudflare.com/telecinefun
+#EXTINF:-1,Telecinepipoca
+https://keith-items-womens-cafe.trycloudflare.com/telecinepipoca
+#EXTINF:-1,Telecinepremium
+https://keith-items-womens-cafe.trycloudflare.com/telecinepremium
+#EXTINF:-1,Telecinetouch
+https://keith-items-womens-cafe.trycloudflare.com/telecinetouch
+#EXTINF:-1,Universal
+https://keith-items-womens-cafe.trycloudflare.com/universal
+#EXTINF:-1,Warnerchannel
+https://keith-items-womens-cafe.trycloudflare.com/warnerchannel
+#EXTINF:-1,Bandnews
+https://keith-items-womens-cafe.trycloudflare.com/bandnews
+#EXTINF:-1,Bandrj
+https://keith-items-womens-cafe.trycloudflare.com/bandrj
+#EXTINF:-1,Bandsp
+https://keith-items-womens-cafe.trycloudflare.com/bandsp
+#EXTINF:-1,Cnnbrasil
+https://keith-items-womens-cafe.trycloudflare.com/cnnbrasil
+#EXTINF:-1,Globonews
+https://keith-items-womens-cafe.trycloudflare.com/globonews
+#EXTINF:-1,Recordmg
+https://keith-items-womens-cafe.trycloudflare.com/recordmg
+#EXTINF:-1,Recordrj
+https://keith-items-womens-cafe.trycloudflare.com/recordrj
+#EXTINF:-1,Recordsp
+https://keith-items-womens-cafe.trycloudflare.com/recordsp
+#EXTINF:-1,Sbtrj
+https://keith-items-womens-cafe.trycloudflare.com/sbtrj
+#EXTINF:-1,Sbtsp
+https://keith-items-womens-cafe.trycloudflare.com/sbtsp
+#EXTINF:-1,Aparecida
+https://keith-items-womens-cafe.trycloudflare.com/aparecida
+#EXTINF:-1,Cancaonova
+https://keith-items-womens-cafe.trycloudflare.com/cancaonova
+#EXTINF:-1,Cultura
+https://keith-items-womens-cafe.trycloudflare.com/cultura
+#EXTINF:-1,Globoam
+https://keith-items-womens-cafe.trycloudflare.com/globoam
+#EXTINF:-1,Globoce
+https://keith-items-womens-cafe.trycloudflare.com/globoce
+#EXTINF:-1,Globoes
+https://keith-items-womens-cafe.trycloudflare.com/globoes
+#EXTINF:-1,Globomg
+https://keith-items-womens-cafe.trycloudflare.com/globomg
+#EXTINF:-1,Globopb
+https://keith-items-womens-cafe.trycloudflare.com/globopb
+#EXTINF:-1,Globope
+https://keith-items-womens-cafe.trycloudflare.com/globope
+#EXTINF:-1,Globope
+https://keith-items-womens-cafe.trycloudflare.com/globoPE
+#EXTINF:-1,Globorj
+https://keith-items-womens-cafe.trycloudflare.com/globorj
+#EXTINF:-1,Globors
+https://keith-items-womens-cafe.trycloudflare.com/globors
+#EXTINF:-1,Globosp
+https://keith-items-womens-cafe.trycloudflare.com/globosp
+#EXTINF:-1,Mtv
+https://keith-items-womens-cafe.trycloudflare.com/mtv
+#EXTINF:-1,Multishow
+https://keith-items-womens-cafe.trycloudflare.com/multishow
+#EXTINF:-1,Foodnetwork
+https://keith-items-womens-cafe.trycloudflare.com/foodnetwork
+#EXTINF:-1,Masterchef
+https://keith-items-womens-cafe.trycloudflare.com/masterchef
+#EXTINF:-1,Playboy
+https://keith-items-womens-cafe.trycloudflare.com/playboy
+#EXTINF:-1,Sexyhot
+https://keith-items-womens-cafe.trycloudflare.com/sexyhot
+#EXTINF:-1,Pt Abola
+https://keith-items-womens-cafe.trycloudflare.com/pt_abola
+#EXTINF:-1,Pt Benficatv
+https://keith-items-womens-cafe.trycloudflare.com/pt_benficatv
+#EXTINF:-1,Pt Canal11
+https://keith-items-womens-cafe.trycloudflare.com/pt_canal11
+#EXTINF:-1,Pt Eleven1
+https://keith-items-womens-cafe.trycloudflare.com/pt_eleven1
+#EXTINF:-1,Pt Eleven2
+https://keith-items-womens-cafe.trycloudflare.com/pt_eleven2
+#EXTINF:-1,Pt Eleven3
+https://keith-items-womens-cafe.trycloudflare.com/pt_eleven3
+#EXTINF:-1,Pt Sporttv1
+https://keith-items-womens-cafe.trycloudflare.com/pt_sporttv1
+#EXTINF:-1,Pt Sporttv2
+https://keith-items-womens-cafe.trycloudflare.com/pt_sporttv2
+#EXTINF:-1,Pt Sporttv3
+https://keith-items-womens-cafe.trycloudflare.com/pt_sporttv3
+#EXTINF:-1,Pt Sporttv4
+https://keith-items-womens-cafe.trycloudflare.com/pt_sporttv4
+#EXTINF:-1,Pt Sporttv5
+https://keith-items-womens-cafe.trycloudflare.com/pt_sporttv5
+#EXTINF:-1,Pt Sporttv6
+https://keith-items-womens-cafe.trycloudflare.com/pt_sporttv6
+#EXTINF:-1,Pt Sporttv7
+https://keith-items-womens-cafe.trycloudflare.com/pt_sporttv7
+#EXTINF:-1,Globodf
+https://keith-items-womens-cafe.trycloudflare.com/globodf
+#EXTINF:-1,Globoesp
+https://keith-items-womens-cafe.trycloudflare.com/globoesp
+#EXTINF:-1,Recorddf
+https://keith-items-womens-cafe.trycloudflare.com/recorddf
+#EXTINF:-1,Recordesp
+https://keith-items-womens-cafe.trycloudflare.com/recordesp
+#EXTINF:-1,Redetv
+https://keith-items-womens-cafe.trycloudflare.com/redetv
+#EXTINF:-1,Amazonprime
+https://keith-items-womens-cafe.trycloudflare.com/amazonprime
+#EXTINF:-1,Amazonprime02
+https://keith-items-womens-cafe.trycloudflare.com/amazonprime02
+#EXTINF:-1,Amazonprime03
+https://keith-items-womens-cafe.trycloudflare.com/amazonprime03
+#EXTINF:-1,Amazonprime04
+https://keith-items-womens-cafe.trycloudflare.com/amazonprime04
+#EXTINF:-1,Amazonprime05
+https://keith-items-womens-cafe.trycloudflare.com/amazonprime05
+#EXTINF:-1,Appletv01
+https://keith-items-womens-cafe.trycloudflare.com/appletv01
+#EXTINF:-1,Appletv02
+https://keith-items-womens-cafe.trycloudflare.com/appletv02
+#EXTINF:-1,Appletv03
+https://keith-items-womens-cafe.trycloudflare.com/appletv03
+#EXTINF:-1,Appletv04
+https://keith-items-womens-cafe.trycloudflare.com/appletv04
+#EXTINF:-1,Appletv05
+https://keith-items-womens-cafe.trycloudflare.com/appletv05
+#EXTINF:-1,Appletv06
+https://keith-items-womens-cafe.trycloudflare.com/appletv06
+#EXTINF:-1,Band Sports
+https://keith-items-womens-cafe.trycloudflare.com/band_sports
+#EXTINF:-1,Canalgoat
+https://keith-items-womens-cafe.trycloudflare.com/canalgoat
+#EXTINF:-1,Cazetv4
+https://keith-items-womens-cafe.trycloudflare.com/cazetv4
+#EXTINF:-1,Cazetv5
+https://keith-items-womens-cafe.trycloudflare.com/cazetv5
+#EXTINF:-1,Cazetv6
+https://keith-items-womens-cafe.trycloudflare.com/cazetv6
+#EXTINF:-1,Dazn
+https://keith-items-womens-cafe.trycloudflare.com/dazn
+#EXTINF:-1,Disneyplus07
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus07
+#EXTINF:-1,Disneyplus08
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus08
+#EXTINF:-1,Disneyplus09
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus09
+#EXTINF:-1,Disneyplus02
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus02
+#EXTINF:-1,Disneyplus03
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus03
+#EXTINF:-1,Disneyplus04
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus04
+#EXTINF:-1,Disneyplus05
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus05
+#EXTINF:-1,Disneyplus06
+https://keith-items-womens-cafe.trycloudflare.com/disneyplus06
+#EXTINF:-1,Max
+https://keith-items-womens-cafe.trycloudflare.com/max
+#EXTINF:-1,Max02
+https://keith-items-womens-cafe.trycloudflare.com/max02
+#EXTINF:-1,Max03
+https://keith-items-womens-cafe.trycloudflare.com/max03
+#EXTINF:-1,Max04
+https://keith-items-womens-cafe.trycloudflare.com/max04
+#EXTINF:-1,Max05
+https://keith-items-womens-cafe.trycloudflare.com/max05
+#EXTINF:-1,Max06
+https://keith-items-womens-cafe.trycloudflare.com/max06
+#EXTINF:-1,Nsports
+https://keith-items-womens-cafe.trycloudflare.com/nsports
+#EXTINF:-1,Nossofutebol
+https://keith-items-womens-cafe.trycloudflare.com/nossofutebol
+#EXTINF:-1,Paramount02
+https://keith-items-womens-cafe.trycloudflare.com/paramount02
+#EXTINF:-1,Paramount03
+https://keith-items-womens-cafe.trycloudflare.com/paramount03
+#EXTINF:-1,Paramount04
+https://keith-items-womens-cafe.trycloudflare.com/paramount04
+#EXTINF:-1,Paramount05
+https://keith-items-womens-cafe.trycloudflare.com/paramount05
+#EXTINF:-1,Paramount06
+https://keith-items-womens-cafe.trycloudflare.com/paramount06
+#EXTINF:-1,Paramount07
+https://keith-items-womens-cafe.trycloudflare.com/paramount07
+#EXTINF:-1,Sportynet
+https://keith-items-womens-cafe.trycloudflare.com/sportynet
+#EXTINF:-1,Sportynet1
+https://keith-items-womens-cafe.trycloudflare.com/sportynet1
+#EXTINF:-1,Sportynet2
+https://keith-items-womens-cafe.trycloudflare.com/sportynet2
+#EXTINF:-1,Sportynet3
+https://keith-items-womens-cafe.trycloudflare.com/sportynet3
+#EXTINF:-1,Amcseries
+https://keith-items-womens-cafe.trycloudflare.com/amcseries
+#EXTINF:-1,Globoplaynovelas
+https://keith-items-womens-cafe.trycloudflare.com/globoplaynovelas
+#EXTINF:-1,Hbosignature
+https://keith-items-womens-cafe.trycloudflare.com/hbosignature
+#EXTINF:-1,Paramountnetwork
+https://keith-items-womens-cafe.trycloudflare.com/paramountnetwork
+#EXTINF:-1,Usa
+https://keith-items-womens-cafe.trycloudflare.com/usa
+#EXTINF:-1,Warner
+https://keith-items-womens-cafe.trycloudflare.com/warner
+#EXTINF:-1,Dreamworks
+https://keith-items-womens-cafe.trycloudflare.com/dreamworks
+#EXTINF:-1,Gloobinho
+https://keith-items-womens-cafe.trycloudflare.com/gloobinho
+#EXTINF:-1,Nickjr
+https://keith-items-womens-cafe.trycloudflare.com/nickjr
+#EXTINF:-1,Nickelodeon
+https://keith-items-womens-cafe.trycloudflare.com/nickelodeon
+#EXTINF:-1,Tooncast
+https://keith-items-womens-cafe.trycloudflare.com/tooncast
+#EXTINF:-1,Tvratimbum
+https://keith-items-womens-cafe.trycloudflare.com/tvratimbum
+#EXTINF:-1,Jovempannews
+https://keith-items-womens-cafe.trycloudflare.com/jovempannews
+#EXTINF:-1,Recordnews
+https://keith-items-womens-cafe.trycloudflare.com/recordnews
+#EXTINF:-1,Novotempo
+https://keith-items-womens-cafe.trycloudflare.com/novotempo
+#EXTINF:-1,Paierterno
+https://keith-items-womens-cafe.trycloudflare.com/paierterno
+#EXTINF:-1,Redegospel
+https://keith-items-womens-cafe.trycloudflare.com/redegospel
+#EXTINF:-1,Redevida
+https://keith-items-womens-cafe.trycloudflare.com/redevida
+#EXTINF:-1,24H-Todo-Mundo-Odeia-O-Chris
+https://keith-items-womens-cafe.trycloudflare.com/24h-todo-mundo-odeia-o-chris
+#EXTINF:-1,Premiereclubes
+https://keith-items-womens-cafe.trycloudflare.com/premiereclubes
+#EXTINF:-1,Tcpipoca
+https://keith-items-womens-cafe.trycloudflare.com/tcpipoca
+#EXTINF:-1,Tcfun
+https://keith-items-womens-cafe.trycloudflare.com/tcfun
+#EXTINF:-1,Tcaction
+https://keith-items-womens-cafe.trycloudflare.com/tcaction
+#EXTINF:-1,Tcpremium
+https://keith-items-womens-cafe.trycloudflare.com/tcpremium

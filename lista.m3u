@@ -1,0 +1,315 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cazetv" tvg-name="Cazetv" group-title="Canais", Cazetv
+https://est-west-integrity-organisms.trycloudflare.com/live/cazetv.m3u8
+#EXTINF:-1 tvg-id="cazetv2" tvg-name="Cazetv2" group-title="Canais", Cazetv2
+https://est-west-integrity-organisms.trycloudflare.com/live/cazetv2.m3u8
+#EXTINF:-1 tvg-id="cazetv3" tvg-name="Cazetv3" group-title="Canais", Cazetv3
+https://est-west-integrity-organisms.trycloudflare.com/live/cazetv3.m3u8
+#EXTINF:-1 tvg-id="cazetv4" tvg-name="Cazetv4" group-title="Canais", Cazetv4
+https://est-west-integrity-organisms.trycloudflare.com/live/cazetv4.m3u8
+#EXTINF:-1 tvg-id="cazetv5" tvg-name="Cazetv5" group-title="Canais", Cazetv5
+https://est-west-integrity-organisms.trycloudflare.com/live/cazetv5.m3u8
+#EXTINF:-1 tvg-id="cazetv6" tvg-name="Cazetv6" group-title="Canais", Cazetv6
+https://est-west-integrity-organisms.trycloudflare.com/live/cazetv6.m3u8
+#EXTINF:-1 tvg-id="combate" tvg-name="Combate" group-title="Canais", Combate
+https://est-west-integrity-organisms.trycloudflare.com/live/combate.m3u8
+#EXTINF:-1 tvg-id="dazn" tvg-name="Dazn" group-title="Canais", Dazn
+https://est-west-integrity-organisms.trycloudflare.com/live/dazn.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-name="Espn" group-title="Canais", Espn
+https://est-west-integrity-organisms.trycloudflare.com/live/espn.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="Espn2" group-title="Canais", Espn2
+https://est-west-integrity-organisms.trycloudflare.com/live/espn2.m3u8
+#EXTINF:-1 tvg-id="espn3" tvg-name="Espn3" group-title="Canais", Espn3
+https://est-west-integrity-organisms.trycloudflare.com/live/espn3.m3u8
+#EXTINF:-1 tvg-id="espn4" tvg-name="Espn4" group-title="Canais", Espn4
+https://est-west-integrity-organisms.trycloudflare.com/live/espn4.m3u8
+#EXTINF:-1 tvg-id="espn5" tvg-name="Espn5" group-title="Canais", Espn5
+https://est-west-integrity-organisms.trycloudflare.com/live/espn5.m3u8
+#EXTINF:-1 tvg-id="espn6" tvg-name="Espn6" group-title="Canais", Espn6
+https://est-west-integrity-organisms.trycloudflare.com/live/espn6.m3u8
+#EXTINF:-1 tvg-id="getv" tvg-name="Getv" group-title="Canais", Getv
+https://est-west-integrity-organisms.trycloudflare.com/live/getv.m3u8
+#EXTINF:-1 tvg-id="band_sports" tvg-name="Band Sports" group-title="Canais", Band Sports
+https://est-west-integrity-organisms.trycloudflare.com/live/band_sports.m3u8
+#EXTINF:-1 tvg-id="canalgoat" tvg-name="Canalgoat" group-title="Canais", Canalgoat
+https://est-west-integrity-organisms.trycloudflare.com/live/canalgoat.m3u8
+#EXTINF:-1 tvg-id="nsports" tvg-name="Nsports" group-title="Canais", Nsports
+https://est-west-integrity-organisms.trycloudflare.com/live/nsports.m3u8
+#EXTINF:-1 tvg-id="nossofutebol" tvg-name="Nossofutebol" group-title="Canais", Nossofutebol
+https://est-west-integrity-organisms.trycloudflare.com/live/nossofutebol.m3u8
+#EXTINF:-1 tvg-id="premiere" tvg-name="Premiere" group-title="Canais", Premiere
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere.m3u8
+#EXTINF:-1 tvg-id="premiere2" tvg-name="Premiere2" group-title="Canais", Premiere2
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere2.m3u8
+#EXTINF:-1 tvg-id="premiere3" tvg-name="Premiere3" group-title="Canais", Premiere3
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere3.m3u8
+#EXTINF:-1 tvg-id="premiere4" tvg-name="Premiere4" group-title="Canais", Premiere4
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere4.m3u8
+#EXTINF:-1 tvg-id="premiere5" tvg-name="Premiere5" group-title="Canais", Premiere5
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere5.m3u8
+#EXTINF:-1 tvg-id="premiere6" tvg-name="Premiere6" group-title="Canais", Premiere6
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere6.m3u8
+#EXTINF:-1 tvg-id="premiere7" tvg-name="Premiere7" group-title="Canais", Premiere7
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere7.m3u8
+#EXTINF:-1 tvg-id="premiere8" tvg-name="Premiere8" group-title="Canais", Premiere8
+https://est-west-integrity-organisms.trycloudflare.com/live/premiere8.m3u8
+#EXTINF:-1 tvg-id="premiereclubes" tvg-name="Premiereclubes" group-title="Canais", Premiereclubes
+https://est-west-integrity-organisms.trycloudflare.com/live/premiereclubes.m3u8
+#EXTINF:-1 tvg-id="sportv" tvg-name="Sportv" group-title="Canais", Sportv
+https://est-west-integrity-organisms.trycloudflare.com/live/sportv.m3u8
+#EXTINF:-1 tvg-id="sportv2" tvg-name="Sportv2" group-title="Canais", Sportv2
+https://est-west-integrity-organisms.trycloudflare.com/live/sportv2.m3u8
+#EXTINF:-1 tvg-id="sportv3" tvg-name="Sportv3" group-title="Canais", Sportv3
+https://est-west-integrity-organisms.trycloudflare.com/live/sportv3.m3u8
+#EXTINF:-1 tvg-id="sportv4" tvg-name="Sportv4" group-title="Canais", Sportv4
+https://est-west-integrity-organisms.trycloudflare.com/live/sportv4.m3u8
+#EXTINF:-1 tvg-id="sportynet" tvg-name="Sportynet" group-title="Canais", Sportynet
+https://est-west-integrity-organisms.trycloudflare.com/live/sportynet.m3u8
+#EXTINF:-1 tvg-id="sportynet1" tvg-name="Sportynet1" group-title="Canais", Sportynet1
+https://est-west-integrity-organisms.trycloudflare.com/live/sportynet1.m3u8
+#EXTINF:-1 tvg-id="sportynet2" tvg-name="Sportynet2" group-title="Canais", Sportynet2
+https://est-west-integrity-organisms.trycloudflare.com/live/sportynet2.m3u8
+#EXTINF:-1 tvg-id="sportynet3" tvg-name="Sportynet3" group-title="Canais", Sportynet3
+https://est-west-integrity-organisms.trycloudflare.com/live/sportynet3.m3u8
+#EXTINF:-1 tvg-id="ufcfightpass" tvg-name="Ufcfightpass" group-title="Canais", Ufcfightpass
+https://est-west-integrity-organisms.trycloudflare.com/live/ufcfightpass.m3u8
+#EXTINF:-1 tvg-id="xsports" tvg-name="Xsports" group-title="Canais", Xsports
+https://est-west-integrity-organisms.trycloudflare.com/live/xsports.m3u8
+#EXTINF:-1 tvg-id="pt_abola" tvg-name="Pt Abola" group-title="Canais", Pt Abola
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_abola.m3u8
+#EXTINF:-1 tvg-id="pt_benficatv" tvg-name="Pt Benficatv" group-title="Canais", Pt Benficatv
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_benficatv.m3u8
+#EXTINF:-1 tvg-id="pt_canal11" tvg-name="Pt Canal11" group-title="Canais", Pt Canal11
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_canal11.m3u8
+#EXTINF:-1 tvg-id="pt_eleven1" tvg-name="Pt Eleven1" group-title="Canais", Pt Eleven1
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_eleven1.m3u8
+#EXTINF:-1 tvg-id="pt_eleven2" tvg-name="Pt Eleven2" group-title="Canais", Pt Eleven2
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_eleven2.m3u8
+#EXTINF:-1 tvg-id="pt_eleven3" tvg-name="Pt Eleven3" group-title="Canais", Pt Eleven3
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_eleven3.m3u8
+#EXTINF:-1 tvg-id="pt_sporttv1" tvg-name="Pt Sporttv1" group-title="Canais", Pt Sporttv1
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_sporttv1.m3u8
+#EXTINF:-1 tvg-id="pt_sporttv2" tvg-name="Pt Sporttv2" group-title="Canais", Pt Sporttv2
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_sporttv2.m3u8
+#EXTINF:-1 tvg-id="pt_sporttv3" tvg-name="Pt Sporttv3" group-title="Canais", Pt Sporttv3
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_sporttv3.m3u8
+#EXTINF:-1 tvg-id="pt_sporttv4" tvg-name="Pt Sporttv4" group-title="Canais", Pt Sporttv4
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_sporttv4.m3u8
+#EXTINF:-1 tvg-id="pt_sporttv5" tvg-name="Pt Sporttv5" group-title="Canais", Pt Sporttv5
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_sporttv5.m3u8
+#EXTINF:-1 tvg-id="pt_sporttv6" tvg-name="Pt Sporttv6" group-title="Canais", Pt Sporttv6
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_sporttv6.m3u8
+#EXTINF:-1 tvg-id="pt_sporttv7" tvg-name="Pt Sporttv7" group-title="Canais", Pt Sporttv7
+https://est-west-integrity-organisms.trycloudflare.com/live/pt_sporttv7.m3u8
+#EXTINF:-1 tvg-id="ae" tvg-name="Ae" group-title="Canais", Ae
+https://est-west-integrity-organisms.trycloudflare.com/live/ae.m3u8
+#EXTINF:-1 tvg-id="amc" tvg-name="Amc" group-title="Canais", Amc
+https://est-west-integrity-organisms.trycloudflare.com/live/amc.m3u8
+#EXTINF:-1 tvg-id="amcseries" tvg-name="Amcseries" group-title="Canais", Amcseries
+https://est-west-integrity-organisms.trycloudflare.com/live/amcseries.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-name="Axn" group-title="Canais", Axn
+https://est-west-integrity-organisms.trycloudflare.com/live/axn.m3u8
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adultswim" group-title="Canais", Adultswim
+https://est-west-integrity-organisms.trycloudflare.com/live/adultswim.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" group-title="Canais", Cinemax
+https://est-west-integrity-organisms.trycloudflare.com/live/cinemax.m3u8
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedycentral" group-title="Canais", Comedycentral
+https://est-west-integrity-organisms.trycloudflare.com/live/comedycentral.m3u8
+#EXTINF:-1 tvg-id="globoplaynovelas" tvg-name="Globoplaynovelas" group-title="Canais", Globoplaynovelas
+https://est-west-integrity-organisms.trycloudflare.com/live/globoplaynovelas.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-name="Hbo" group-title="Canais", Hbo
+https://est-west-integrity-organisms.trycloudflare.com/live/hbo.m3u8
+#EXTINF:-1 tvg-id="hbo2" tvg-name="Hbo2" group-title="Canais", Hbo2
+https://est-west-integrity-organisms.trycloudflare.com/live/hbo2.m3u8
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="Hbofamily" group-title="Canais", Hbofamily
+https://est-west-integrity-organisms.trycloudflare.com/live/hbofamily.m3u8
+#EXTINF:-1 tvg-id="hbomundi" tvg-name="Hbomundi" group-title="Canais", Hbomundi
+https://est-west-integrity-organisms.trycloudflare.com/live/hbomundi.m3u8
+#EXTINF:-1 tvg-id="hbopop" tvg-name="Hbopop" group-title="Canais", Hbopop
+https://est-west-integrity-organisms.trycloudflare.com/live/hbopop.m3u8
+#EXTINF:-1 tvg-id="hboplus" tvg-name="Hboplus" group-title="Canais", Hboplus
+https://est-west-integrity-organisms.trycloudflare.com/live/hboplus.m3u8
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="Hbosignature" group-title="Canais", Hbosignature
+https://est-west-integrity-organisms.trycloudflare.com/live/hbosignature.m3u8
+#EXTINF:-1 tvg-id="hboxtreme" tvg-name="Hboxtreme" group-title="Canais", Hboxtreme
+https://est-west-integrity-organisms.trycloudflare.com/live/hboxtreme.m3u8
+#EXTINF:-1 tvg-id="megapix" tvg-name="Megapix" group-title="Canais", Megapix
+https://est-west-integrity-organisms.trycloudflare.com/live/megapix.m3u8
+#EXTINF:-1 tvg-id="paramountnetwork" tvg-name="Paramountnetwork" group-title="Canais", Paramountnetwork
+https://est-west-integrity-organisms.trycloudflare.com/live/paramountnetwork.m3u8
+#EXTINF:-1 tvg-id="sony" tvg-name="Sony" group-title="Canais", Sony
+https://est-west-integrity-organisms.trycloudflare.com/live/sony.m3u8
+#EXTINF:-1 tvg-id="space" tvg-name="Space" group-title="Canais", Space
+https://est-west-integrity-organisms.trycloudflare.com/live/space.m3u8
+#EXTINF:-1 tvg-id="starchannel" tvg-name="Starchannel" group-title="Canais", Starchannel
+https://est-west-integrity-organisms.trycloudflare.com/live/starchannel.m3u8
+#EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studiouniversal" group-title="Canais", Studiouniversal
+https://est-west-integrity-organisms.trycloudflare.com/live/studiouniversal.m3u8
+#EXTINF:-1 tvg-id="tcm" tvg-name="Tcm" group-title="Canais", Tcm
+https://est-west-integrity-organisms.trycloudflare.com/live/tcm.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-name="Tlc" group-title="Canais", Tlc
+https://est-west-integrity-organisms.trycloudflare.com/live/tlc.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-name="Tnt" group-title="Canais", Tnt
+https://est-west-integrity-organisms.trycloudflare.com/live/tnt.m3u8
+#EXTINF:-1 tvg-id="tntnovelas" tvg-name="Tntnovelas" group-title="Canais", Tntnovelas
+https://est-west-integrity-organisms.trycloudflare.com/live/tntnovelas.m3u8
+#EXTINF:-1 tvg-id="tntseries" tvg-name="Tntseries" group-title="Canais", Tntseries
+https://est-west-integrity-organisms.trycloudflare.com/live/tntseries.m3u8
+#EXTINF:-1 tvg-id="telecineaction" tvg-name="Telecineaction" group-title="Canais", Telecineaction
+https://est-west-integrity-organisms.trycloudflare.com/live/telecineaction.m3u8
+#EXTINF:-1 tvg-id="telecinecult" tvg-name="Telecinecult" group-title="Canais", Telecinecult
+https://est-west-integrity-organisms.trycloudflare.com/live/telecinecult.m3u8
+#EXTINF:-1 tvg-id="telecinefun" tvg-name="Telecinefun" group-title="Canais", Telecinefun
+https://est-west-integrity-organisms.trycloudflare.com/live/telecinefun.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca" tvg-name="Telecinepipoca" group-title="Canais", Telecinepipoca
+https://est-west-integrity-organisms.trycloudflare.com/live/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="telecinepremium" tvg-name="Telecinepremium" group-title="Canais", Telecinepremium
+https://est-west-integrity-organisms.trycloudflare.com/live/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="telecinetouch" tvg-name="Telecinetouch" group-title="Canais", Telecinetouch
+https://est-west-integrity-organisms.trycloudflare.com/live/telecinetouch.m3u8
+#EXTINF:-1 tvg-id="tcpipoca" tvg-name="Tcpipoca" group-title="Canais", Tcpipoca
+https://est-west-integrity-organisms.trycloudflare.com/live/tcpipoca.m3u8
+#EXTINF:-1 tvg-id="tcfun" tvg-name="Tcfun" group-title="Canais", Tcfun
+https://est-west-integrity-organisms.trycloudflare.com/live/tcfun.m3u8
+#EXTINF:-1 tvg-id="tcaction" tvg-name="Tcaction" group-title="Canais", Tcaction
+https://est-west-integrity-organisms.trycloudflare.com/live/tcaction.m3u8
+#EXTINF:-1 tvg-id="tcpremium" tvg-name="Tcpremium" group-title="Canais", Tcpremium
+https://est-west-integrity-organisms.trycloudflare.com/live/tcpremium.m3u8
+#EXTINF:-1 tvg-id="universal" tvg-name="Universal" group-title="Canais", Universal
+https://est-west-integrity-organisms.trycloudflare.com/live/universal.m3u8
+#EXTINF:-1 tvg-id="usa" tvg-name="Usa" group-title="Canais", Usa
+https://est-west-integrity-organisms.trycloudflare.com/live/usa.m3u8
+#EXTINF:-1 tvg-id="warner" tvg-name="Warner" group-title="Canais", Warner
+https://est-west-integrity-organisms.trycloudflare.com/live/warner.m3u8
+#EXTINF:-1 tvg-id="warnerchannel" tvg-name="Warnerchannel" group-title="Canais", Warnerchannel
+https://est-west-integrity-organisms.trycloudflare.com/live/warnerchannel.m3u8
+#EXTINF:-1 tvg-id="disneyplus" tvg-name="Disneyplus" group-title="Canais", Disneyplus
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus.m3u8
+#EXTINF:-1 tvg-id="disneyplus02" tvg-name="Disneyplus02" group-title="Canais", Disneyplus02
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus02.m3u8
+#EXTINF:-1 tvg-id="disneyplus03" tvg-name="Disneyplus03" group-title="Canais", Disneyplus03
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus03.m3u8
+#EXTINF:-1 tvg-id="disneyplus04" tvg-name="Disneyplus04" group-title="Canais", Disneyplus04
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus04.m3u8
+#EXTINF:-1 tvg-id="disneyplus05" tvg-name="Disneyplus05" group-title="Canais", Disneyplus05
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus05.m3u8
+#EXTINF:-1 tvg-id="disneyplus06" tvg-name="Disneyplus06" group-title="Canais", Disneyplus06
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus06.m3u8
+#EXTINF:-1 tvg-id="disneyplus07" tvg-name="Disneyplus07" group-title="Canais", Disneyplus07
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus07.m3u8
+#EXTINF:-1 tvg-id="disneyplus08" tvg-name="Disneyplus08" group-title="Canais", Disneyplus08
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus08.m3u8
+#EXTINF:-1 tvg-id="disneyplus09" tvg-name="Disneyplus09" group-title="Canais", Disneyplus09
+https://est-west-integrity-organisms.trycloudflare.com/live/disneyplus09.m3u8
+#EXTINF:-1 tvg-id="max" tvg-name="Max" group-title="Canais", Max
+https://est-west-integrity-organisms.trycloudflare.com/live/max.m3u8
+#EXTINF:-1 tvg-id="max02" tvg-name="Max02" group-title="Canais", Max02
+https://est-west-integrity-organisms.trycloudflare.com/live/max02.m3u8
+#EXTINF:-1 tvg-id="max03" tvg-name="Max03" group-title="Canais", Max03
+https://est-west-integrity-organisms.trycloudflare.com/live/max03.m3u8
+#EXTINF:-1 tvg-id="max04" tvg-name="Max04" group-title="Canais", Max04
+https://est-west-integrity-organisms.trycloudflare.com/live/max04.m3u8
+#EXTINF:-1 tvg-id="max05" tvg-name="Max05" group-title="Canais", Max05
+https://est-west-integrity-organisms.trycloudflare.com/live/max05.m3u8
+#EXTINF:-1 tvg-id="max06" tvg-name="Max06" group-title="Canais", Max06
+https://est-west-integrity-organisms.trycloudflare.com/live/max06.m3u8
+#EXTINF:-1 tvg-id="paramount" tvg-name="Paramount" group-title="Canais", Paramount
+https://est-west-integrity-organisms.trycloudflare.com/live/paramount.m3u8
+#EXTINF:-1 tvg-id="paramount02" tvg-name="Paramount02" group-title="Canais", Paramount02
+https://est-west-integrity-organisms.trycloudflare.com/live/paramount02.m3u8
+#EXTINF:-1 tvg-id="paramount03" tvg-name="Paramount03" group-title="Canais", Paramount03
+https://est-west-integrity-organisms.trycloudflare.com/live/paramount03.m3u8
+#EXTINF:-1 tvg-id="paramount04" tvg-name="Paramount04" group-title="Canais", Paramount04
+https://est-west-integrity-organisms.trycloudflare.com/live/paramount04.m3u8
+#EXTINF:-1 tvg-id="paramount05" tvg-name="Paramount05" group-title="Canais", Paramount05
+https://est-west-integrity-organisms.trycloudflare.com/live/paramount05.m3u8
+#EXTINF:-1 tvg-id="paramount06" tvg-name="Paramount06" group-title="Canais", Paramount06
+https://est-west-integrity-organisms.trycloudflare.com/live/paramount06.m3u8
+#EXTINF:-1 tvg-id="paramount07" tvg-name="Paramount07" group-title="Canais", Paramount07
+https://est-west-integrity-organisms.trycloudflare.com/live/paramount07.m3u8
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="Primevideo1" group-title="Canais", Primevideo1
+https://est-west-integrity-organisms.trycloudflare.com/live/primevideo1.m3u8
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="Primevideo2" group-title="Canais", Primevideo2
+https://est-west-integrity-organisms.trycloudflare.com/live/primevideo2.m3u8
+#EXTINF:-1 tvg-id="amazonprime" tvg-name="Amazonprime" group-title="Canais", Amazonprime
+https://est-west-integrity-organisms.trycloudflare.com/live/amazonprime.m3u8
+#EXTINF:-1 tvg-id="amazonprime02" tvg-name="Amazonprime02" group-title="Canais", Amazonprime02
+https://est-west-integrity-organisms.trycloudflare.com/live/amazonprime02.m3u8
+#EXTINF:-1 tvg-id="amazonprime03" tvg-name="Amazonprime03" group-title="Canais", Amazonprime03
+https://est-west-integrity-organisms.trycloudflare.com/live/amazonprime03.m3u8
+#EXTINF:-1 tvg-id="amazonprime04" tvg-name="Amazonprime04" group-title="Canais", Amazonprime04
+https://est-west-integrity-organisms.trycloudflare.com/live/amazonprime04.m3u8
+#EXTINF:-1 tvg-id="amazonprime05" tvg-name="Amazonprime05" group-title="Canais", Amazonprime05
+https://est-west-integrity-organisms.trycloudflare.com/live/amazonprime05.m3u8
+#EXTINF:-1 tvg-id="appletv01" tvg-name="Appletv01" group-title="Canais", Appletv01
+https://est-west-integrity-organisms.trycloudflare.com/live/appletv01.m3u8
+#EXTINF:-1 tvg-id="appletv02" tvg-name="Appletv02" group-title="Canais", Appletv02
+https://est-west-integrity-organisms.trycloudflare.com/live/appletv02.m3u8
+#EXTINF:-1 tvg-id="appletv03" tvg-name="Appletv03" group-title="Canais", Appletv03
+https://est-west-integrity-organisms.trycloudflare.com/live/appletv03.m3u8
+#EXTINF:-1 tvg-id="appletv04" tvg-name="Appletv04" group-title="Canais", Appletv04
+https://est-west-integrity-organisms.trycloudflare.com/live/appletv04.m3u8
+#EXTINF:-1 tvg-id="appletv05" tvg-name="Appletv05" group-title="Canais", Appletv05
+https://est-west-integrity-organisms.trycloudflare.com/live/appletv05.m3u8
+#EXTINF:-1 tvg-id="appletv06" tvg-name="Appletv06" group-title="Canais", Appletv06
+https://est-west-integrity-organisms.trycloudflare.com/live/appletv06.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoonnetwork" group-title="Canais", Cartoonnetwork
+https://est-west-integrity-organisms.trycloudflare.com/live/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Canais", Cartoonito
+https://est-west-integrity-organisms.trycloudflare.com/live/cartoonito.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discoverykids" group-title="Canais", Discoverykids
+https://est-west-integrity-organisms.trycloudflare.com/live/discoverykids.m3u8
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamworks" group-title="Canais", Dreamworks
+https://est-west-integrity-organisms.trycloudflare.com/live/dreamworks.m3u8
+#EXTINF:-1 tvg-id="gloob" tvg-name="Gloob" group-title="Canais", Gloob
+https://est-west-integrity-organisms.trycloudflare.com/live/gloob.m3u8
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="Gloobinho" group-title="Canais", Gloobinho
+https://est-west-integrity-organisms.trycloudflare.com/live/gloobinho.m3u8
+#EXTINF:-1 tvg-id="nickjr" tvg-name="Nickjr" group-title="Canais", Nickjr
+https://est-west-integrity-organisms.trycloudflare.com/live/nickjr.m3u8
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" group-title="Canais", Nickelodeon
+https://est-west-integrity-organisms.trycloudflare.com/live/nickelodeon.m3u8
+#EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" group-title="Canais", Tooncast
+https://est-west-integrity-organisms.trycloudflare.com/live/tooncast.m3u8
+#EXTINF:-1 tvg-id="tvratimbum" tvg-name="Tvratimbum" group-title="Canais", Tvratimbum
+https://est-west-integrity-organisms.trycloudflare.com/live/tvratimbum.m3u8
+#EXTINF:-1 tvg-id="24h_chaves" tvg-name="24H Chaves" group-title="Canais", 24H Chaves
+https://est-west-integrity-organisms.trycloudflare.com/live/24h_chaves.m3u8
+#EXTINF:-1 tvg-id="24h_dragonballz" tvg-name="24H Dragonballz" group-title="Canais", 24H Dragonballz
+https://est-west-integrity-organisms.trycloudflare.com/live/24h_dragonballz.m3u8
+#EXTINF:-1 tvg-id="24h_naruto" tvg-name="24H Naruto" group-title="Canais", 24H Naruto
+https://est-west-integrity-organisms.trycloudflare.com/live/24h_naruto.m3u8
+#EXTINF:-1 tvg-id="24h_simpsons" tvg-name="24H Simpsons" group-title="Canais", 24H Simpsons
+https://est-west-integrity-organisms.trycloudflare.com/live/24h_simpsons.m3u8
+#EXTINF:-1 tvg-id="24h-todo-mundo-odeia-o-chris" tvg-name="24H Todo Mundo Odeia O Chris" group-title="Canais", 24H Todo Mundo Odeia O Chris
+https://est-west-integrity-organisms.trycloudflare.com/live/24h-todo-mundo-odeia-o-chris.m3u8
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animalplanet" group-title="Canais", Animalplanet
+https://est-west-integrity-organisms.trycloudflare.com/live/animalplanet.m3u8
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discoverychannel" group-title="Canais", Discoverychannel
+https://est-west-integrity-organisms.trycloudflare.com/live/discoverychannel.m3u8
+#EXTINF:-1 tvg-id="discoveryhh" tvg-name="Discoveryhh" group-title="Canais", Discoveryhh
+https://est-west-integrity-organisms.trycloudflare.com/live/discoveryhh.m3u8
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="Discoveryid" group-title="Canais", Discoveryid
+https://est-west-integrity-organisms.trycloudflare.com/live/discoveryid.m3u8
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discoveryscience" group-title="Canais", Discoveryscience
+https://est-west-integrity-organisms.trycloudflare.com/live/discoveryscience.m3u8
+#EXTINF:-1 tvg-id="discoverytheater" tvg-name="Discoverytheater" group-title="Canais", Discoverytheater
+https://est-west-integrity-organisms.trycloudflare.com/live/discoverytheater.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discoveryturbo" group-title="Canais", Discoveryturbo
+https://est-west-integrity-organisms.trycloudflare.com/live/discoveryturbo.m3u8
+#EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discoveryworld" group-title="Canais", Discoveryworld
+https://est-west-integrity-organisms.trycloudflare.com/live/discoveryworld.m3u8
+#EXTINF:-1 tvg-id="fishtv" tvg-name="Fishtv" group-title="Canais", Fishtv
+https://est-west-integrity-organisms.trycloudflare.com/live/fishtv.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History" group-title="Canais", History
+https://est-west-integrity-organisms.trycloudflare.com/live/history.m3u8
+#EXTINF:-1 tvg-id="history2" tvg-name="History2" group-title="Canais", History2
+https://est-west-integrity-organisms.trycloudflare.com/live/history2.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil" tvg-name="Cnnbrasil" group-title="Canais", Cnnbrasil
+https://est-west-integrity-organisms.trycloudflare.com/live/cnnbrasil.m3u8
+#EXTINF:-1 tvg-id="globonews" tvg-name="Globonews" group-title="Canais", Globonews
+https://est-west-integrity-organisms.trycloudflare.com/live/globonews.m3u8
+#EXTINF:-1 tvg-id="jovempannews" tvg-name="Jovempannews" group-title="Canais", Jovempannews
+https://est-west-integrity-organisms.trycloudflare.com/live/jovempannews.m3u8
+#EXTINF:-1 tvg-id="recordnews" tvg-name="Recordnews" group-title="Canais", Recordnews
+https://est-west-integrity-organisms.trycloudflare.com/live/recordnews.m3u8
